@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -70,56 +73,73 @@
 \makeatother
 
 \usepackage{tcolorbox}
-
+\tcbuselibrary{breakable}
 
 \newtcolorbox{blackbox}{
   colback=black,
   coltext=white,
   colframe=black,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{bonus}{
   colback=blue!15,
   colframe=blue!15,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{reflect}{
   colback=green!5,
   colframe=green!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{assessment}{
   colback=blue!5,
   colframe=blue!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
+  
 \newtcolorbox{progress}{
   colback=purple!10,
   colframe=purple!10,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{video}{
   colback=yellow!5,
   colframe=yellow!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{caution}{
   colback=red!5,
   colframe=red!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{feedback}{
   colback=black!5,
   colframe=black!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
@@ -127,7 +147,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={{[}Course Name \& \#{]}},
   pdfauthor={Name},
@@ -152,11 +172,9 @@
 \emph{Insert the course description here.}
 
 \begin{feedback}
-\textbf{Tips for Instructors:} Consider this description as a hook to
-get students interested in your course. Describe the big ideas of your
-course, summarize what students will learn, explain why it matters.
-\textbf{\emph{Note that if there are any changes to a course
-description, these need to be approved by Senate.}}
+\textbf{Tips for Instructors:}
+Consider this description as a hook to get students interested in your course. Describe the big ideas of your course, summarize what students will learn, explain why it matters.
+\textbf{\emph{Note that if there are any changes to a course description, these need to be approved by Senate.}}
 \end{feedback}
 
 \hypertarget{how-to-navigate-this-book}{%
@@ -190,9 +208,7 @@ This course is organized into 10 units. Each unit of the course will provide you
 \end{itemize}
 
 \begin{caution}
-Note that assessments, including assignments and discussion posts will
-be submitted in Moodle. See the Assessment tab in Moodle for the
-assignment dropboxes.
+Note that assessments, including assignments and discussion posts will be submitted in Moodle. See the Assessment tab in Moodle for the assignment dropboxes.
 \end{caution}
 
 \hypertarget{course-activities}{%
@@ -203,30 +219,22 @@ Below is some key information on features you will see throughout the course.~
 
 \begin{reflect}
 \textbf{\emph{Learning Activity}}\\
-This box will prompt you to engage in course concepts, often by viewing
-resources and reflecting on your experience and/or learning. Most
-learning activities are ungraded and are designed to help prepare you
-for the assessment in this course.
+This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
 \end{reflect}
 
 \begin{assessment}
 \textbf{\emph{Assessment}}\\
-This box will signify an assignment or discussion post you will submit
-in Moodle. Note that these demonstrate your understanding of the course
-learning outcomes. Be sure to review the grading rubrics for each
-assignment.
+This box will signify an assignment or discussion post you will submit in Moodle. Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
 \end{assessment}
 
 \begin{progress}
 \textbf{\emph{Checking Your Learning}}\\
-This box is for checking your understanding, to make sure you are ready
-for what follows.
+This box is for checking your understanding, to make sure you are ready for what follows.
 \end{progress}
 
 \begin{feedback}
 \textbf{\emph{Note}}\\
-This box signifies Tips for Instructors. Please delete these before you
-share this course book with your students!
+This box signifies Tips for Instructors. Please delete these before you share this course book with your students!
 \end{feedback}
 
 \hypertarget{title}{%
