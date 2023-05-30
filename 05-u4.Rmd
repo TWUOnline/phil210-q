@@ -21,7 +21,7 @@ This is the question we will be addressing in this unit, i.e., **how can we deci
 
 There are three common theories of morality which set out answers to this question: **Justice as Fairness, Utilitarianism,** and **The Categorical Imperative**. In this unit we will read articles setting out each of these theories along with a basic rationale for each.
 
-### Topics {-}
+## Topics {-}
 
 This unit is divided into 3 topics:
 

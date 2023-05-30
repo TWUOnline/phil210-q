@@ -40,7 +40,7 @@ Last, we’ll be introduced to the famous story of the Ring of Gyges, told by th
 Let’s plunge in. Why be moral?
 
 
-### Topics {-}
+## Topics {-}
 
 This unit is divided into 2 topics:
 
