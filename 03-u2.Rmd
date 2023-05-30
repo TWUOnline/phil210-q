@@ -33,15 +33,16 @@ That is where we’re heading in this unit. As we’ve noted above, understandin
 
 This unit is divided into 3 topics:
 
-1.  Moral Nihilism  
-2.  Moral Objectivism vs. Subjectivism  
-3.  Free Will and Moral Responsibility  
+1. Moral Nihilism  
+2. Moral Objectivism vs. Subjectivism  
+3. Free Will and Moral Responsibility  
 
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
-- Define key terms, such as Moral Nihilism, Moral Subjectivism, Moral Objectivism, Free Will, Determinism, and Compatibilism.
-- Examine a case and suggest solutions, applying key concepts in moral discussions.
+
+- Define key terms, such as Moral Nihilism, Moral Subjectivism, Moral Objectivism, Free Will, Determinism, and Compatibilism.  
+- Examine a case and suggest solutions, applying key concepts in moral discussions.  
 
 ### Activity Checklist {-}
 
@@ -337,7 +338,7 @@ discussions:
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
-- Define key terms, such as Moral Nihilism, Moral Subjectivism, Moral Objectivism, Free Will, Determinism, and Compatibilism.
-- Examine a case and suggest solutions, applying key concepts in moral discussions.
+  - Define key terms, such as Moral Nihilism, Moral Subjectivism, Moral Objectivism, Free Will, Determinism, and Compatibilism.  
+  - Examine a case and suggest solutions, applying key concepts in moral discussions.  
 
 ```

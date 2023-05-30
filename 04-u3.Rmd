@@ -44,17 +44,16 @@ Let’s plunge in. Why be moral?
 
 This unit is divided into 2 topics:
 
-1.  Egoism & Self-interest Morality
-2.  Social Contract Morality
+1. Egoism & Self-interest Morality  
+2. Social Contract Morality  
 
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
--   Explain key ethical concepts such as ethical egoism, psychological egoism,
-    self-interest morality, and kin altruism.
--   Discuss knowledgeably Plato’s famous story of the Ring of Gyges.
--   Discuss whether people would do what is right, even if no one would find
-    out.
+
+- Explain key ethical concepts such as ethical egoism, psychological egoism, self-interest morality, and kin altruism.  
+- Discuss knowledgeably Plato’s famous story of the Ring of Gyges.  
+- Discuss whether people would do what is right, even if no one would find out.  
 
 ### Activity Checklist {-}
 
@@ -264,8 +263,10 @@ See more assignment details, including the *grading criteria* in the Assessments
 ```{block2, type='progress'}
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
--   Explain key ethical concepts such as ethical egoism, psychological egoism, self-interest morality, and kin altruism.
--   Discuss knowledgeably Plato’s famous story of the Ring of Gyges.
--   Discuss whether people would do what is right, even if no one would find out.
+
+  - Explain key ethical concepts such as ethical egoism, psychological egoism, self-interest morality, and kin altruism.  
+  - Discuss knowledgeably Plato’s famous story of the Ring of Gyges.  
+  - Discuss whether people would do what is right, even if no one would find out.  
 
 ```
+
