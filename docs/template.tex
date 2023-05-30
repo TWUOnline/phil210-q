@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -144,7 +147,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={{[}Course Name \& \#{]}},
   pdfauthor={Name},
@@ -264,8 +267,8 @@ If your friend described the medical service she just received as slow or unhelp
 In this unit we will explore further how to carry out moral discourse well and will examine the interesting question of why, around the world, people do not always appear to have the same moral outlook.
 
 \hypertarget{topics}{%
-\subsection*{Topics}\label{topics}}
-\addcontentsline{toc}{subsection}{Topics}
+\section*{Topics}\label{topics}}
+\addcontentsline{toc}{section}{Topics}
 
 This unit is divided into 3 topics:
 
@@ -575,21 +578,22 @@ Your group assignment will be marked according to the following criteria:
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \textbf{Criteria}
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 \textbf{Excellent}
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \textbf{Identification of issues and implications} (20 points max) & Excellent explanation of issues and implications. (20 points) \\
 \textbf{Appropriate justification of approach and expected outcome} (30 points max) & Choice of appropriate justification of approach and expected outcome. (25 to 30 points) \\
 \textbf{Reasonable explanation of opinion and perspectives} (20 points max) & Well-written evaluation of opinions. (17 to 20 points) \\
 \textbf{Sufficient length} (10 points max) & Report of more than 500 words. (10 points) \\
 \textbf{Layout and writing} (20 points max) & Accurate grammar and spelling, structured layout. (17 to 20 points) \\
 & \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{checking-your-learning}{%
@@ -649,8 +653,8 @@ There are a number of views on this foundational question and in our readings we
 That is where we're heading in this unit. As we've noted above, understanding these terms will allow us to reflect on them to see where we stand on the issues they raise. Once that process is under way, we'll be ready to think clearly about the specific moral questions we will encounter in this course and in life. It will be a rewarding and useful journey.
 
 \hypertarget{topics-1}{%
-\subsection*{Topics}\label{topics-1}}
-\addcontentsline{toc}{subsection}{Topics}
+\section*{Topics}\label{topics-1}}
+\addcontentsline{toc}{section}{Topics}
 
 This unit is divided into 3 topics:
 
@@ -964,8 +968,8 @@ discussions:
 \textbar{} \textbf{Discussion Participation} \textbar{} Participation in discussions. Responses are thoughtful and insightful and promote the learning of fellow students. \textbar{} /5\textbar{}
 
 \hypertarget{checking-your-learning-1}{%
-\subsection*{Checking your Learning}\label{checking-your-learning-1}}
-\addcontentsline{toc}{subsection}{Checking your Learning}
+\section*{Checking your Learning}\label{checking-your-learning-1}}
+\addcontentsline{toc}{section}{Checking your Learning}
 
 \begin{progress}
 Before you move on to the next unit, you may want to check to make sure that you are able to:
@@ -1023,8 +1027,8 @@ Last, we'll be introduced to the famous story of the Ring of Gyges, told by the 
 Let's plunge in. Why be moral?
 
 \hypertarget{topics-2}{%
-\subsection*{Topics}\label{topics-2}}
-\addcontentsline{toc}{subsection}{Topics}
+\section*{Topics}\label{topics-2}}
+\addcontentsline{toc}{section}{Topics}
 
 This unit is divided into 2 topics:
 
@@ -1259,8 +1263,8 @@ end of your presentation to answer questions and facilitate a class discussion.
 See more assignment details, including the \emph{grading criteria} in the Assessments section of this course.
 
 \hypertarget{checking-your-learning-2}{%
-\subsection*{Checking your Learning}\label{checking-your-learning-2}}
-\addcontentsline{toc}{subsection}{Checking your Learning}
+\section*{Checking your Learning}\label{checking-your-learning-2}}
+\addcontentsline{toc}{section}{Checking your Learning}
 
 \begin{progress}
 Before you move on to the next unit, you may want to check to make sure that you are able to:
@@ -1303,8 +1307,8 @@ This is the question we will be addressing in this unit, i.e., \textbf{how can w
 There are three common theories of morality which set out answers to this question: \textbf{Justice as Fairness, Utilitarianism,} and \textbf{The Categorical Imperative}. In this unit we will read articles setting out each of these theories along with a basic rationale for each.
 
 \hypertarget{topics-3}{%
-\subsection*{Topics}\label{topics-3}}
-\addcontentsline{toc}{subsection}{Topics}
+\section*{Topics}\label{topics-3}}
+\addcontentsline{toc}{section}{Topics}
 
 This unit is divided into 3 topics:
 
@@ -1535,8 +1539,8 @@ After you have finished your journal assignment, you will share your responses i
 \end{assessment}
 
 \hypertarget{checking-your-learning-3}{%
-\subsection*{Checking your Learning}\label{checking-your-learning-3}}
-\addcontentsline{toc}{subsection}{Checking your Learning}
+\section*{Checking your Learning}\label{checking-your-learning-3}}
+\addcontentsline{toc}{section}{Checking your Learning}
 
 \begin{progress}
 Before you move on to the next unit, you may want to check to make sure that you are able to:
@@ -1792,8 +1796,8 @@ Your video must include the following elements:
 \end{caution}
 
 \hypertarget{checking-your-learning-4}{%
-\subsection*{Checking your Learning}\label{checking-your-learning-4}}
-\addcontentsline{toc}{subsection}{Checking your Learning}
+\section*{Checking your Learning}\label{checking-your-learning-4}}
+\addcontentsline{toc}{section}{Checking your Learning}
 
 \begin{progress}
 Before you move on to the next unit, you may want to check to make sure that you are able to:
@@ -1811,14 +1815,543 @@ Before you move on to the next unit, you may want to check to make sure that you
 \end{itemize}
 \end{progress}
 
+\hypertarget{sexual-morality}{%
+\chapter{Sexual Morality}\label{sexual-morality}}
+
+\includegraphics{assets/unit_6/portrait-119851_640.jpg}
+
+\emph{image of two people standing across each other in the woods. Photo Credit: \href{https://pixabay.com/en/portrait-anger-people-couple-119851/}{Pixabay}}
+
+\hypertarget{overview-5}{%
+\section*{Overview}\label{overview-5}}
+\addcontentsline{toc}{section}{Overview}
+
+Welcome to unit six. In this unit we will be addressing the sensitive topic of
+date rape and the influence of alcohol. It's a topic we need to treat with care
+and understanding. Defining key terms and concepts will be especially important
+here.
+Most of us have some idea of what is meant by the term \textbf{date rape} and we know it is like other cases of rape in some ways but unlike them in others. What exactly are the differences and why do they matter?
+
+In one of our readings we will see date rape defined as a sexual act which falls into the gray area between \textbf{consensual sex} and \textbf{aggressive rape}. If this definition is correct, then it leads us to one of the most important concepts in this discussion, namely, the concept of \textbf{consent}, which normally represents the dividing line between consensual sex and rape in general.
+While obtaining consent is normally considered unproblematic, this is not always the case in date rape and it has led to a distinction between \textbf{valid consent} and \textbf{silent submission}. Understanding the difference between these two ideas is critical because it can constitute the difference between an act of date rape and one of consensual sex.
+
+In one of our readings for this unit, Nicholas Dixon, an American professor of philosophy, introduces the role of alcohol into this discussion and argues that it is a critical factor precisely because it complicates the process of determining consent.
+In another article we will read, Conor Kelly, an American professor and researcher in theological ethics, raises the concept of \textbf{hookup culture}. This refers to the increasingly common practice of engaging in sexual activity with no expectation of a longer-term commitment. She presents us with a foundational ethical question, especially from a feminist ethical point of view: Does the rise and wide acceptance of hookup culture represent an abuse of women or is it an expression of female liberation?
+
+Here are some vital starting questions raised in our first reading by Lois Pineau, an American philosopher, for us to consider as we think about these issues: If a man gets a woman drunk and then has sex with her, would it count as rape? It would seem so but, then, what precisely constitutes the act of ``getting her drunk?'' What if she was happy to go along with the drinking? Where is the line to be drawn? The situation is further complicated, adds Pineau, if a woman has engaged in provocative behaviour earlier.
+Pineau suggests that one way to approach this issue is to shift focus from questions like these and ask what is required for sexual activity to go well. What conditions must be met for this to occur? She suggests one condition for sexual activity going well by introducing the concept of \textbf{communicative sexuality.} It will be important for us both to understand and reflect on this concept.
+Sometimes a woman simply goes along, says Pineau, either because her resistance is broken down, perhaps by alcohol or peer pressure, or because she fears a worse outcome if she resists. In other words, she says, sometimes \textbf{assault} is mistaken for \textbf{seduction}, which implies \textbf{consent}. In the end, Pineau argues that these serious problems can be dealt with by practicing communicative sexuality.
+In our learning activities, we'll have an opportunity to interact with classmates and help each other fine-tune our understanding of these important concepts. Well also reflect on our own ethical stance on the key questions involved in this sensitive topic.
+
+\hypertarget{topics-5}{%
+\section*{Topics}\label{topics-5}}
+\addcontentsline{toc}{section}{Topics}
+
+This unit is divided into two topics:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Date Rape\\
+\item
+  Alcohol \& Rape\\
+\item
+  Hookup Culture \& Women's Liberation
+\end{enumerate}
+
+\hypertarget{learning-outcomes-5}{%
+\subsection*{Learning Outcomes}\label{learning-outcomes-5}}
+\addcontentsline{toc}{subsection}{Learning Outcomes}
+
+When you have completed this unit you should be able to:
+
+\begin{itemize}
+\tightlist
+\item
+  Describe how cultural assumptions sometimes lead to situations involving moral dilemmas of a sexual nature.\\
+\item
+  Discuss the importance of consent in determining the morality of a sexual encounter.\\
+\item
+  State the moral complexities surrounding impaired sexual activity
+\item
+  Explain how both date rape and alcohol use sometimes create gray areas between fully consensual sex and aggressive rape.\\
+\item
+  Define the term, hookup culture, and discuss the question this raises regarding the advancement of women's rights.\\
+\item
+  Discuss intelligently a number of rape myths.
+\end{itemize}
+
+\hypertarget{activity-checklist-5}{%
+\subsection*{Activity Checklist}\label{activity-checklist-5}}
+\addcontentsline{toc}{subsection}{Activity Checklist}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-17}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-17}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+\begin{itemize}
+\item
+  Read the section on sexual morality by Lois Pineau (pages 293-306) of your \emph{Readings} textbook. Watch the videos related to the topic.
+\item
+  Read the section on sexual morality by Nicholas Dixon (pages 306-316) of your \emph{Readings} textbook. Watch the videos related to the topic.
+\item
+  Read the section on hookup culture, (pages 316-328) of your \emph{Readings} textbook.
+\end{itemize}
+
+\hypertarget{stuck-in-the-middle-case-study}{%
+\subsubsection*{Stuck in the Middle Case Study}\label{stuck-in-the-middle-case-study}}
+\addcontentsline{toc}{subsubsection}{Stuck in the Middle Case Study}
+
+Read and analyze the case study presented.
+
+\hypertarget{key-terms-quiz-4}{%
+\subsubsection*{Key Terms Quiz}\label{key-terms-quiz-4}}
+\addcontentsline{toc}{subsubsection}{Key Terms Quiz}
+
+Take the ungraded quiz to review important concepts.
+
+\hypertarget{resources-5}{%
+\subsection*{Resources}\label{resources-5}}
+\addcontentsline{toc}{subsection}{Resources}
+
+Here are the resources you will need to complete this unit.
+- Wolff, Jonathan. ~\emph{Readings in Moral Philosophy}. ~New York: W. W. Norton \& Company, 2018.\\
+- Other online resources will be provided in the unit
+\end{reflect}
+
+\hypertarget{date-rape}{%
+\section*{Date Rape}\label{date-rape}}
+\addcontentsline{toc}{section}{Date Rape}
+
+One of the first questions we need to ask is what, exactly, constitutes \textbf{date rape} and how it is different from rape in general? When can a person justifiably claim to have been ``date-raped?'' In our first reading, Lois Pineau, an American philosopher, writes that date rape falls into a gray area between \textbf{consensual sex} and \textbf{aggressive rape}.
+If she is correct, then we come directly to one of the most important concepts in this discussion, namely, \textbf{consent}, which represents the dividing line between consensual sex and rape in general. In most situations, we are well aware of how to give consent and normally think we know when we have given or withheld it. When someone invites us to be involved in their work project, for instance, we either agree to get involved or we do not. The notion of consent seems unproblematic. In the issue of date rape, however, complexities can arise in determining when genuine consent has been given.
+
+\hypertarget{learning-activities-13}{%
+\subsection*{Learning Activities}\label{learning-activities-13}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-18}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-18}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+In the first activity, you are asked to read the section on date rape by Lois
+Pineau (pages 293-306) of your textbook, \emph{Readings in Moral Philosophy} by
+Jonathan Wolff. As you read, take notes in your Learning Journal, defining key
+terms and explaining key concepts.
+Next, watch the following videos to learn more about key terms from this topic.
+
+Also, see the following resource on sexual assault:
+\url{http://sacha.ca/resources/statistics}
+\end{reflect}
+
+\hypertarget{alcohol-rape}{%
+\section*{Alcohol \& Rape}\label{alcohol-rape}}
+\addcontentsline{toc}{section}{Alcohol \& Rape}
+
+As we noted earlier, in the issue of date rape, complicating factors can arise in determining when genuine consent has been given and one of the most common ones is presented by the role of alcohol. Nicholas Dixon, an American philosopher, raises this factor and it leads him to speak of \textbf{impaired sex}. The discussion over alcohol is especially important since it can add confusion precisely at the point of consent which represents the dividing line between legitimate sexual activity and rape. As Pineau points out, a person's consumption of alcohol can affect their ability to give consent.
+If a woman is so incapacitated by alcohol that she cannot meaningfully give consent, then would a sexual act constitute rape? Does anything change if she said ``yes'' while in this condition, or had engaged in provocative behaviour earlier?
+On the other hand, suppose a woman's inhibitions have been reduced by alcohol and she gives her consent but later regrets it, claiming it was out of sync with her long-held values? Does a sexual act in this case count as rape? Why or why not?
+This has led to the distinction noted earlier between \textbf{valid consent} and \textbf{silent submission}.
+
+\hypertarget{learning-activities-14}{%
+\subsection*{Learning Activities}\label{learning-activities-14}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-19}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-19}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+Read the section on alcohol and rape by Nicholas Dixon (pages 306-316) of your textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+Next, watch the following videos to learn more about key terms from this topic.
+\end{reflect}
+
+\hypertarget{hookup-culture}{%
+\section*{Hookup Culture}\label{hookup-culture}}
+\addcontentsline{toc}{section}{Hookup Culture}
+
+Date rape does not happen in isolation. It occurs within a social context, and a key feature of the current social context is described by the term, \textbf{hookup culture.} This term is introduced to us by Conor Kelly in the article we will read by her for this topic. It refers to the practice of engaging in sexual activity with no expectation by either party of a longer-term relationship.
+As Kelly points out, hookup culture is increasingly accepted in our world. What we may not have noticed, however, is that it raises a key ethical question, one that she puts to us from the perspective of feminist ethics: \textbf{Does hookup culture represent a step forward for women's rights or is it, by nature, sexist and anti-women?} Is it an expression of increased freedom and equality, or does it, in effect, treat women as simply means used by men to have more free sex with no strings attached?
+As we read Kelly's article, let's understand the concept of hookup culture and wrestle with this question. We'll have an opportunity to see what this cultural practice means for the task of determining helpful guiding principles to apply to the maze of questions surrounding date rape.
+
+\hypertarget{learning-activities-15}{%
+\subsection*{Learning Activities}\label{learning-activities-15}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\begin{reflect}
+\hypertarget{read-and-reflect}{%
+\subsubsection*{Read and Reflect}\label{read-and-reflect}}
+\addcontentsline{toc}{subsubsection}{Read and Reflect}
+
+Read the section on hookup culture, (pages 316-328) of your textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. Take notes defining key terms and ideas.
+Study the chapter review summary, questions and key terms.
+
+\hypertarget{key-terms-quiz-ungraded-4}{%
+\subsubsection{Key Terms Quiz (ungraded)}\label{key-terms-quiz-ungraded-4}}
+
+Match the following terms to their correct definition.
+
+\hypertarget{stuck-in-the-middle-case-study-1}{%
+\subsubsection*{Stuck in the Middle Case Study}\label{stuck-in-the-middle-case-study-1}}
+\addcontentsline{toc}{subsubsection}{Stuck in the Middle Case Study}
+
+Read the following case and consider the questions presented.
+A long-time friend phones you and tells you she was raped last night on a date with another friend of yours. ~When you call the other friend, he is shocked to hear she is using the term, rape. He claims that she led him on and he really thought she was ``into it.'' ~After all, they had been drinking and touching throughout the evening at her place. Even though she seemed reluctant at one point, in the end she went along with it. ~It so happens that you have just completed the course reading for this unit so you might be thinking of the complexities of the situation and the individual perspectives of both people.
+Based on the readings for this unit, what questions arise? ~What questions should the people involved be asking themselves? What are bound to be the most difficult complicating factors in this discussion? ~
+\end{reflect}
+
+\begin{caution}
+\textbf{Note} that you may be asked to review this case or similar cases in your class discussion groups. You may want to prepare by relating the case to your readings. Specifically, identify the ethical issues and terms to help explain the case.
+\end{caution}
+
+\hypertarget{assessment-5}{%
+\section*{Assessment}\label{assessment-5}}
+\addcontentsline{toc}{section}{Assessment}
+
+\begin{assessment}
+\hypertarget{assignment-ethics-committee-response-ungraded-practice-1}{%
+\subsection*{Assignment: Ethics Committee Response (ungraded practice)}\label{assignment-ethics-committee-response-ungraded-practice-1}}
+\addcontentsline{toc}{subsection}{Assignment: Ethics Committee Response (ungraded practice)}
+
+After completing this unit, including the learning activities, you are asked to analyze a case with your Ethics Committee.
+This week, your committee has been asked to discuss a problem going on at the local high school. ~There have been recent reports of date rape occurring, and parents and school leaders are deeply concerned. Discuss how and why date rape can lead to difficult moral dilemmas. ~How is date rape different from any other kind of rape and what are the complicating factors added by the introduction of alcohol into the situation? ~What concepts or principles could provide help in solving these dilemmas? In your responses, work with key terms and concepts from the course reading. At the end of your discussion, come up with some key steps which could help the school develop a policy on sexual consent.
+As you meet with your Ethics Committee this week, discuss the case above and take notes as a group.
+\end{assessment}
+
+\hypertarget{checking-your-learning-5}{%
+\section*{Checking your Learning}\label{checking-your-learning-5}}
+\addcontentsline{toc}{section}{Checking your Learning}
+
+\begin{progress}
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+\begin{itemize}
+\tightlist
+\item
+  Describe how cultural assumptions sometimes lead to situations involving moral dilemmas of a sexual nature.\\
+\item
+  Discuss the importance of consent in determining the morality of a sexual encounter.\\
+\item
+  State the legal and moral complexities surrounding impaired sexual activity.\\
+\item
+  Explain how both date rape and alcohol use sometimes create gray areas between fully consensual sex and aggressive rape.
+\end{itemize}
+\end{progress}
+
+\hypertarget{animal-rights}{%
+\chapter{Animal Rights}\label{animal-rights}}
+
+\includegraphics{assets/unit_7/U7_43699044114_5156812c09_z.jpg}
+
+\emph{Image of animal liberation protest. Photo Credit: \href{https://flickr.com/photos/31246066}{flickr photo by Ian Sane}}
+
+\hypertarget{overview-6}{%
+\section*{Overview}\label{overview-6}}
+\addcontentsline{toc}{section}{Overview}
+
+Do animals have rights? We commonly speak of humans having rights, but animals? Could it be that your pet cat, or dog, or the local farmer's livestock, or even animals living in the wild, have rights to certain things? This question has been a point of intense discussion in the past few decades and it is the focus of this unit.
+When we ask if animals have rights, we are really asking whether animals are the kinds of beings that could have rights. Of course, we cannot answer that question without having some idea of what kinds of beings have rights in the first place. If we can provide an answer to this question, then we will be well on our way to knowing whether animals have rights.
+The question of whether animals have rights leads directly to a more foundational one, namely, what it means to attribute a right to a being, whether it be a human or an animal? What are we saying when we affirm that someone has a right to something?
+
+A \textbf{right} is one of the strongest entities of which one could speak in both legal and moral discourse. It conveys the idea of being entitled to something. If a person does not receive something to which they have a right, then a wrong has been done. Their rights have been violated. This means that to affirm that one has a right to something is to make a forceful statement and one that carries implications for other people.
+
+\textbf{Legal rights}, such as the right to live free of a home invasion, are declared and enforced by governments. If someone violates your legal rights by breaking into your home and robbing you at gun point, that person violates this legal right of yours. He has acted illegally and, consequently, if caught, will be subject to a penalty from the government.
+
+In this unit, we are primarily concerned with moral rights rather than legal ones. \textbf{Moral rights} exist whether or not they are declared, recognized, or enforced by governments. Of course, there is often debate about whether something actually is a moral right, but few people disagree that moral rights exist.
+To have a moral right to something, say a right to live free of harm from others, means one is entitled to live without being attacked by others in one's society regardless of whether the law requires it or not. If your neighbour attacks you in front of your home, then a moral wrong has been done since you did not receive something to which you had a moral right, namely an existence free of harm from others.
+
+We can take this one step further. If you have a moral right to something, say to live in safety, it also means that someone somewhere, in this case other members of your society, have a corresponding \textbf{moral duty} to honour that right by not causing you harm. If they do, then they have not fulfilled their moral duty to you. They have acted immorally.
+
+It should be obvious that the way we answer our original question of whether animals have rights will have a far-reaching implication for us. If we affirm that animals do have rights, it will mean that we have corresponding duties to treat them in certain ways and, in fact, are acting immorally if we do not treat them in these ways.
+We may prefer to deny that animals have rights in order to relieve ourselves of our duties toward them. Our desire to avoid moral duties, however, will not count as a legitimate reason for a no-animal-rights position because moral rights, by their nature, are not things we simply decide to confer upon others. That's how legal rights work, but not moral rights. Moral rights are entities we simply recognize or discover.
+
+If animals do have rights, then a few other questions immediately follow. Which animals, what rights, and how did they get them? What is the basis for believing such rights exist?
+To answer this, we could ask how we, as humans, ``get'' the rights we say we have, rights to such things as life and liberty. Legal rights come from the government, but from where do we derive moral rights? Answering this question will inevitably lead to the question of what kinds of beings have rights.
+A more technical way of asking this is: \textbf{What are the ``rights-giving characteristics'' which any being who has rights possesses, and do any animals possess these characteristics?} This, then, becomes one of the key questions for us to explore. Answering it will help us determine whether a particular animal has rights. Different answers have been given to this query and we will see three very different ones in the readings for this unit.
+We will have an opportunity to examine and evaluate the basis for different perspectives regarding our duties to animals with our class colleagues.
+
+\hypertarget{topics-6}{%
+\subsection*{Topics}\label{topics-6}}
+\addcontentsline{toc}{subsection}{Topics}
+
+This unit is divided into 3 topics:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Are Animals Self-Aware?\\
+\item
+  Do We Practice Speciesism?\\
+\item
+  Animals Do Have Rights But. . .
+\end{enumerate}
+
+\hypertarget{learning-outcomes-6}{%
+\subsection*{Learning Outcomes}\label{learning-outcomes-6}}
+\addcontentsline{toc}{subsection}{Learning Outcomes}
+
+When you have completed this unit you should be able to:
+
+\begin{itemize}
+\tightlist
+\item
+  Define the term ``right.''\\
+\item
+  Specify the difference between legal and moral rights.\\
+\item
+  Explain how moral rights are related to moral duties.\\
+\item
+  Identify at least two rights-giving-characteristics which any being which possesses moral rights must have.\\
+\item
+  Explain and assess Peter Singer's rationale for his view that animals have certain moral rights.
+\end{itemize}
+
+\hypertarget{activity-checklist-6}{%
+\subsection*{Activity Checklist}\label{activity-checklist-6}}
+\addcontentsline{toc}{subsection}{Activity Checklist}
+
+Here is a checklist of learning activities you will benefit from in completing
+this unit. You may find it useful for planning your work.
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-20}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-20}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+\begin{itemize}
+\tightlist
+\item
+  Read the introductory section on animal rights (pages 426-27) and the section by Immanuel Kant (p.~428-29) in your \emph{Readings} textbook. Watch the videos related to the topic.\\
+\item
+  Read the section on animal rights by Peter Singer (pages 429-435) in your \emph{Readings} textbook. Watch the videos related to the topic.\\
+\item
+  Read the section on animal rights by Roger Scruton (pages 436-443) in your \emph{Readings} textbook. Watch the videos related to the topic.
+\end{itemize}
+
+\hypertarget{singer-case-study}{%
+\subsubsection*{Singer Case Study}\label{singer-case-study}}
+\addcontentsline{toc}{subsubsection}{Singer Case Study}
+
+Read and analyze the case study presented.
+
+\hypertarget{ai-extension}{%
+\subsubsection*{AI Extension}\label{ai-extension}}
+\addcontentsline{toc}{subsubsection}{AI Extension}
+
+Read an article and watch the video on AI and personhood. Reflect on if AI should have rights.
+
+\hypertarget{key-terms-quiz-5}{%
+\subsubsection*{Key Terms Quiz}\label{key-terms-quiz-5}}
+\addcontentsline{toc}{subsubsection}{Key Terms Quiz}
+
+Take the ungraded quiz to review important concepts.
+
+\hypertarget{assignment-4}{%
+\subsubsection*{\texorpdfstring{\textbf{Assignment}}{Assignment}}\label{assignment-4}}
+\addcontentsline{toc}{subsubsection}{\textbf{Assignment}}
+
+Ethics Committee Response (15\%)
+\end{reflect}
+
+\hypertarget{resources-6}{%
+\subsection*{Resources}\label{resources-6}}
+\addcontentsline{toc}{subsection}{Resources}
+
+Here are the resources you will need to complete this unit.
+
+\begin{itemize}
+\tightlist
+\item
+  Wolff, Jonathan. ~\emph{Readings in Moral Philosophy}. ~New York: W. W. Norton \& Company, 2018.\\
+\item
+  Other online resources will be provided in the unit.
+\end{itemize}
+
+\hypertarget{are-animals-self-aware}{%
+\section*{Are Animals Self-Aware?}\label{are-animals-self-aware}}
+\addcontentsline{toc}{section}{Are Animals Self-Aware?}
+
+The first answer concerning animal rights that we will consider is given by the eighteenth century German philosopher, Immanuel Kant, who believed animals do not have rights. Interestingly he tied his answer directly to the question of what kinds of being have rights. In order to have a right, says Kant, a being must be self-conscious, or in other words, self-aware. Since he believed animals do not have this characteristic, they cannot possess rights.
+As we read his article, we will want to note carefully how he arrived at these two conclusions, first, that a key rights-giving characteristic of any being is self-consciousness (sometimes referred to as self-awareness), and secondly, that animals do not possess this characteristic.
+Let's suppose, for purposes of argument, that Kant was correct. What does this mean, then, for the way we should treat animals? One might think that if animals have no rights, as Kant argued, that we are free to treat them in just any old way. We may be surprised at Kant's answer to this question but it is one to which we will also want to pay special attention. Once we understand it, we will be in a position to see if we agree with it.
+
+\hypertarget{learning-activities-16}{%
+\subsection*{Learning Activities}\label{learning-activities-16}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-21}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-21}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+In the first activity, you are asked to read the introductory section on animal
+rights (pages 426-27) and the section by Immanuel Kant (p.~428-29) in your
+textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. As you read, take
+notes in your Learning Journal, defining key terms and explaining key concepts.
+Next, choose from the following videos to learn more about key terms from this
+topic.
+\end{reflect}
+
+\hypertarget{do-we-practice-speciesism}{%
+\section*{Do We Practice Speciesism?}\label{do-we-practice-speciesism}}
+\addcontentsline{toc}{section}{Do We Practice Speciesism?}
+
+The second answer to our question about animal rights could hardly be more different from Immanuel Kant's. It comes from well-known American ethicist, Peter Singer, who argued that animals do, indeed, have rights, in the same strong sense as we humans have them. Furthermore, since animals have rights, it means that many of our current practices involving animals are actually immoral. They violate the rights of animals.
+In fact, Singer went so far as to argue that the very principle of equality which we apply to humans should be extended to many animals as well. When we restrict this principle to humans, he said, we are guilty of something he called \textbf{speciesism}.
+While this term may be new to us, it is one we will want to understand clearly when we read his article. It is akin to the terms, racism and sexism, which refer to practices which are immoral because they violate the principle of equality. Speciesism, said Singer, also violates this principle and, for this reason, is immoral as well.
+As we read through Singer's article, we'll want to see precisely what he meant by the term, speciesism, and how he reasoned to his conclusion that animals have rights in this strong sense.
+
+\hypertarget{learning-activities-17}{%
+\subsection*{Learning Activities}\label{learning-activities-17}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-22}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-22}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+Read the section on animal rights by Peter Singer (pages 429-435) in your textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+Next, choose from the following videos to learn more about key terms from this topic.
+\end{reflect}
+
+\hypertarget{animals-do-not-have-rights-but.-.-.}{%
+\section*{Animals-Do-Not-Have-Rights-But. . .}\label{animals-do-not-have-rights-but.-.-.}}
+\addcontentsline{toc}{section}{Animals-Do-Not-Have-Rights-But. . .}
+
+The third answer to our question about animal rights comes from American English professor, Roger Scruton, and could be summed up as the, ``Animals-do-not-have-rights-but. . .'' position. They do not have rights, says Scruton, for the simple reason that they are not the kinds of beings that possess rights. Notice that in saying this, Scruton, like Kant, is grounding his view on animal rights directly in the question of the kind of beings which have rights.
+
+What kinds of beings, then, do have rights? Scruton's answer is that \textbf{persons} have rights while \textbf{nonpersons} do not. But what, precisely, does it mean to be a person? It means, he says, that one has the distinguishing features of personhood which include such things as self-awareness, the power of reason, personality, etc. Persons are capable of entering into ongoing dialogue with other persons. To state this more technically, personhood is the chief rights-giving characteristic.
+
+Scruton also introduces the term \textbf{moral community.} This refers to a group of persons who have both moral rights and also corresponding moral duties to each other. Again, they have these because they are the types of beings which are capable of having such rights and duties, namely, persons. Animals, on the other hand, are not members of moral communities since they do not have these characteristics.
+
+As we read Scruton's article, we will want to ask, however, if he has left open the possibility that there could be exceptions to his principle. What would happen, for example, if we discovered animals that did appear to have these rights-giving characteristics, self-awareness, reason, personality, etc.? Might they be persons? If so, would we need to regard them as having rights and duties and, thus, as being members of a moral community?
+
+Regardless of how we answer that question, we will also want to pay special heed to the question of how animals should be treated if they really have no rights, as Scruton argues. It's the same question we asked for Immanuel Kant's view. If they have no rights, does this mean that any treatment of them at all is morally permissible? Interestingly, Scruton's answer is, no. He argues that we still have moral duties to animals even though these duties are not grounded in any rights possessed by the animals. On what, then, are they grounded?
+
+We will want to take special note of Scruton's reasoning and learn on what he is grounding our duties to animals. If they are not grounded on any rights possessed by the animals, then where do our duties come from? Once we grasp his answer to this question, we will be in a position to assess the basis he provides for our duties toward animals.
+
+\hypertarget{learning-activities-18}{%
+\subsection*{Learning Activities}\label{learning-activities-18}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-23}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-23}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+Read the section on animal rights by Roger Scruton (pages 436-443) in your textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+Next, watch the following videos to learn more about key terms from this topic.
+
+\href{https://www.khanacademy.org/partner-content/wi-phi/wiphi-value-theory/wiphi-ethics/v/moral-status}{PHILOSOPHY - Ethics: Moral Status} (7 minutes)
+
+\hypertarget{case-study}{%
+\subsubsection*{Case Study}\label{case-study}}
+\addcontentsline{toc}{subsubsection}{Case Study}
+
+For this case study, analyze Peter Singer's well-known contention that the vital characteristic that gives a being the right to equal consideration is not the \textbf{ability to reason}, as is commonly assumed, but rather the \textbf{capacity for suffering.} To review this, see his article in the course readings (pages 429-432). ~Do you agree with this contention? Why or why not? State also whether you agree with the principle he derives from this contention, namely, that the principle of equality which we commonly apply to humans should be extended to other species. If you agree with this, explain why. If you do not agree, explain why. In either case, draw upon the concepts and principles from both Immanuel Kant's and Roger Scruton's articles.
+\emph{Note that you may be asked to review this case or similar cases in your class discussion groups. You may want to prepare by relating the case to your readings. Specifically, identify the ethical issues and terms to help explain the case.}
+
+\hypertarget{key-terms-quiz-ungraded-5}{%
+\subsubsection*{Key Terms Quiz (ungraded)}\label{key-terms-quiz-ungraded-5}}
+\addcontentsline{toc}{subsubsection}{Key Terms Quiz (ungraded)}
+
+In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
+Match the following terms to their correct definition.
+
+\hypertarget{artificial-intelligence-extension}{%
+\subsubsection*{Artificial Intelligence Extension}\label{artificial-intelligence-extension}}
+\addcontentsline{toc}{subsubsection}{Artificial Intelligence Extension}
+
+There are many sci-fi movies and shows that play with the idea of the personhood of Artificial Intelligence. However, is this idea as fictional as it once was? Or has technological innovation brought this idea to the point where we need to seriously address it?
+
+Watch the following video to learn more about if AI has rights. Then read the article from Forbes.
+
+\href{https://www.forbes.com/sites/nicolemartin1/2019/02/08/did-a-robot-write-this-how-ai-is-impacting-journalism/\#6d4b9c347795}{Did A Robot Write This?}
+\end{reflect}
+
+\begin{caution}
+\textbf{Questions to reflect on: }
+
+How does some of the ideas surrounding the personhood of AI reflect some of the ideas and arguments you have encountered about animal rights?\\
+What do you think? Could strong AI be considered a person and have rights? Use key terms from this unit to justify your answer.
+\end{caution}
+
+\hypertarget{assessment-6}{%
+\section*{Assessment}\label{assessment-6}}
+\addcontentsline{toc}{section}{Assessment}
+
+\begin{assessment}
+\hypertarget{assignment-ethics-committee-response-15}{%
+\subsection*{Assignment: Ethics Committee Response (15\%)}\label{assignment-ethics-committee-response-15}}
+\addcontentsline{toc}{subsection}{Assignment: Ethics Committee Response (15\%)}
+
+After completing this unit, including the learning activities, you are asked to
+meet with your Ethics Committee and create a response to the following:
+
+A strongly worded editorial has just appeared in a local newspaper accusing the community zoo, and all zoos, of violating the rights of animals. Among other things, the author of the article pointedly asked, ``How would we like it if we were the ones being confined in this way? It's not natural for humans and it's not for animals either.''
+
+A group is now lobbying the city council to shut down the zoo and the council has turned to your ethics committee for a recommendation. Your task is to write a brief report in which you do the following things:
+
+\begin{itemize}
+\tightlist
+\item
+  Define the concept of a right.\\
+\item
+  State whether or not animals have rights. Tell why you answer as you do.\\
+\item
+  If animals do have rights, does the practice of keeping them in zoos violate their rights. Again, give a reason for your answer.
+\end{itemize}
+
+As you collaborate on this assignment, be sure to refer to the \textbf{grading
+criteria} in the Assessments section of this course. Submit your report on
+Moodle by the end of the week.
+
+\hypertarget{assignment-reflective-journal-ungraded-practice-2}{%
+\subsection*{Assignment: Reflective Journal (ungraded practice)}\label{assignment-reflective-journal-ungraded-practice-2}}
+\addcontentsline{toc}{subsection}{Assignment: Reflective Journal (ungraded practice)}
+
+After completing this unit, including the learning activities, you are asked to
+write a Reflective Journal entry of 250-400 words, answering the following:
+Examine Peter Singer's basis for moral obligation to animals, including an analysis of Singer's extension of the principle of equality to animals. On what is this principle based? What does it mean to say animals are ``equal'' to humans?~ State your agreement or disagreement with this principle along with your reasons.
+In addition, consider the issue of animal abuse. What steps could you take to solve this problem or advocate for animal rights?
+
+\hypertarget{discussion-responses-2}{%
+\subsection*{Discussion Responses}\label{discussion-responses-2}}
+\addcontentsline{toc}{subsection}{Discussion Responses}
+
+After you have finished your journal assignment, you will share your responses in class with your peers. As you discuss, be sure to respond substantively. Be sure to include your initial journal response, as well as ideas from your class discussion.
+\end{assessment}
+
+\hypertarget{checking-your-learning-6}{%
+\section*{Checking your Learning}\label{checking-your-learning-6}}
+\addcontentsline{toc}{section}{Checking your Learning}
+
+\begin{progress}
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+\begin{itemize}
+\tightlist
+\item
+  Define the term ``right.''\\
+\item
+  Specify the difference between legal and moral rights.\\
+\item
+  Explain how moral rights are related to moral duties.\\
+\item
+  Identify at least two rights-giving-characteristics which any being which possesses moral rights must have.\\
+\item
+  Explain and assess Peter Singer's rationale for his view that animals have certain moral rights.
+\end{itemize}
+\end{progress}
+
 \hypertarget{title}{%
 \chapter{Title}\label{title}}
-
-\hypertarget{title-1}{%
-\chapter{Title}\label{title-1}}
-
-\hypertarget{title-2}{%
-\chapter{Title}\label{title-2}}
 
 \hypertarget{references}{%
 \chapter*{References}\label{references}}
