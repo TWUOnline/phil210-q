@@ -258,7 +258,7 @@ end of your presentation to answer questions and facilitate a class discussion.
 See more assignment details, including the *grading criteria* in the Assessments section of this course.
 
 
-### Checking your Learning {-}
+## Checking your Learning {-}
 
 ```{block2, type='progress'}
 

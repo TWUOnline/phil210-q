@@ -332,7 +332,7 @@ discussions:
 | **Discussion Participation** | Participation in discussions. Responses are thoughtful and insightful and promote the learning of fellow students.        | /5|
 
 
-### Checking your Learning {-}
+## Checking your Learning {-}
 
 ```{block2, type='progress'}
 

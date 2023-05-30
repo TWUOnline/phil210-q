@@ -1,4 +1,6 @@
-# Sexual Morality 
+# Sexual Morality
+
+
 
 ![](assets/unit_6/portrait-119851_640.jpg)
 
@@ -188,7 +190,7 @@ As you meet with your Ethics Committee this week, discuss the case above and tak
 
 ```
 
-### Checking your Learning {-}
+## Checking your Learning {-}
 
 ```{block2, type='progress'}
 

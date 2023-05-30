@@ -258,7 +258,7 @@ After you have finished your journal assignment, you will share your responses i
 
 ```
 
-### Checking your Learning {-}
+## Checking your Learning {-}
 
 ```{block2, type='progress'}
 

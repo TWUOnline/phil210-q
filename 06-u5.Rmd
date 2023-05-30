@@ -201,7 +201,7 @@ this may require rehearsing it once or twice. This video must be posted on Moodl
 
 ```
 
-### Checking your Learning {-}
+## Checking your Learning {-}
 
 ```{block2, type='progress'}
 
