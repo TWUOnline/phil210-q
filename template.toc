@@ -257,4 +257,5 @@
 \contentsline {subsubsection}{Partner Project Presentation (40\%)}{100}{section*.245}%
 \contentsline {subsubsection}{Ethics Committee Self-Reflection (Ungraded)}{100}{section*.246}%
 \contentsline {section}{Checking your Learning}{101}{section*.247}%
-\contentsline {chapter}{References}{103}{chapter*.248}%
+\contentsline {chapter}{\numberline {11}Course Café}{103}{chapter.11}%
+\contentsline {chapter}{References}{105}{chapter*.248}%

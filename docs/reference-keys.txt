@@ -13,3 +13,4 @@ animal-rights
 end-of-life-moral-dilemmas
 the-ethics-of-torture-and-terrorism
 world-hunger-and-foreign-aid
+course-café
