@@ -5,19 +5,16 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
+\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math} % this also loads fontspec
+  \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else
-  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -147,7 +144,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same}
+\urlstyle{same} % disable monospaced font for URLs
 \hypersetup{
   pdftitle={{[}Course Name \& \#{]}},
   pdfauthor={Name},
@@ -578,22 +575,21 @@ Your group assignment will be marked according to the following criteria:
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 \textbf{Criteria}
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 \textbf{Excellent}
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 \textbf{Identification of issues and implications} (20 points max) & Excellent explanation of issues and implications. (20 points) \\
 \textbf{Appropriate justification of approach and expected outcome} (30 points max) & Choice of appropriate justification of approach and expected outcome. (25 to 30 points) \\
 \textbf{Reasonable explanation of opinion and perspectives} (20 points max) & Well-written evaluation of opinions. (17 to 20 points) \\
 \textbf{Sufficient length} (10 points max) & Report of more than 500 words. (10 points) \\
 \textbf{Layout and writing} (20 points max) & Accurate grammar and spelling, structured layout. (17 to 20 points) \\
 & \\
+\bottomrule()
 \end{longtable}
 
 \hypertarget{checking-your-learning}{%
@@ -2351,14 +2347,15 @@ Before you move on to the next unit, you may want to check to make sure that you
 \end{progress}
 
 \hypertarget{end-of-life-moral-dilemmas}{%
-\chapter{\# End-of-Life Moral Dilemmas}\label{end-of-life-moral-dilemmas}}
+\chapter{End-of-Life Moral Dilemmas}\label{end-of-life-moral-dilemmas}}
 
 \includegraphics{assets/unit_8/U8_hospice-1761276_1920.jpg}
 
-\emph{image of an elderly man's being cared. Photo Credit: \href{https://pixabay.com/en/hospice-caring-elderly-old-1761276/}{Pixabay}}
+\emph{image of an elderly man being cared. Photo Credit: \href{https://pixabay.com/en/hospice-caring-elderly-old-1761276/}{Pixabay}}
 
 \hypertarget{overview-7}{%
-\section{Overview}\label{overview-7}}
+\section*{Overview}\label{overview-7}}
+\addcontentsline{toc}{section}{Overview}
 
 Suppose one of your loved ones is on her death bed with no hope of recovery and has just slipped into a coma. Imagine also that the medical staff has come to you asking for direction as to how to proceed. They present you with a number of options. They could maintain your loved one's life for quite some time in this vegetative state or they could withdraw the life-saving equipment and allow your loved one to die probably in the next four to six hours. They could even administer a lethal injection and intentionally bring about the death of your loved one at the time of your choosing.
 
@@ -2380,73 +2377,97 @@ Do principles of justice either allow or mandate the execution of such a person?
 Let's prepare for some moral choices we may well have to make in the future.
 
 \hypertarget{topics-7}{%
-\section{Topics}\label{topics-7}}
+\subsection*{Topics}\label{topics-7}}
+\addcontentsline{toc}{subsection}{Topics}
 
 This unit is divided into three topics:
-1. Active \& Passive Euthanasia
-2. Capital Punishment: A Defense
-3. How to Reason Ethically About Capital Punishment
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Active \& Passive Euthanasia\\
+\item
+  Capital Punishment: A Defense\\
+\item
+  How to Reason Ethically About Capital Punishment
+\end{enumerate}
 
 \hypertarget{learning-outcomes-7}{%
-\section{Learning Outcomes}\label{learning-outcomes-7}}
+\subsection*{Learning Outcomes}\label{learning-outcomes-7}}
+\addcontentsline{toc}{subsection}{Learning Outcomes}
 
 When you have completed this unit you should be able to:
-- Describe key concepts in the euthanasia discussion including euthanasia, active euthanasia, passive euthanasia, voluntary euthanasia, non-voluntary euthanasia, and killing versus letting die.
-- Explain James Rachels' moral equivalency argument concerning active euthanasia and passive euthanasia.
-- Articulate John Stuart Mill's case for the moral permissibility of capital punishment.
-- Discuss the strongest objections to the case for capital punishment.
+
+\begin{itemize}
+\tightlist
+\item
+  Describe key concepts in the euthanasia discussion including euthanasia, active euthanasia, passive euthanasia, voluntary euthanasia, non-voluntary euthanasia, and killing versus letting die.\\
+\item
+  Explain James Rachels' moral equivalency argument concerning active euthanasia and passive euthanasia.\\
+\item
+  Articulate John Stuart Mill's case for the moral permissibility of capital punishment.\\
+\item
+  Discuss the strongest objections to the case for capital punishment.
+\end{itemize}
 
 \hypertarget{activity-checklist-7}{%
-\section{Activity Checklist}\label{activity-checklist-7}}
+\subsection*{Activity Checklist}\label{activity-checklist-7}}
+\addcontentsline{toc}{subsection}{Activity Checklist}
 
-Here is a checklist of learning activities you will benefit from in completing
-this unit. You may find it useful for planning your work.
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-\href{_schedule}{plugin:content-inject}
+\begin{reflect}
+\hypertarget{read-view-and-reflect-24}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-24}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
 
-\#\#\#\#\#Activity 8.1: Read, View and Reflect
-:fa-book: Read the section on euthanasia by James Rachels (pages 372-378) and Philippa Foot (379-388) in your \emph{Readings} textbook. Watch the video related to the topic.
+\begin{itemize}
+\tightlist
+\item
+  Read the section on euthanasia by James Rachels (pages 372-378) and Philippa Foot (379-388) in your \emph{Readings} textbook. Watch the video related to the topic.\\
+\item
+  Read the section on capital punishment by John Stuart Mill (390-397) in your \emph{Readings} textbook. Watch the videos related to the topic.\\
+\item
+  Read the section on euthanasia by Hugo Adam Bedau (pages 397-406) in your \emph{Readings} textbook.
+\end{itemize}
 
-\hypertarget{activity-8.3-read-view-and-reflect}{%
-\paragraph{Activity 8.3: Read, View and Reflect}\label{activity-8.3-read-view-and-reflect}}
+\hypertarget{smith-and-jones-case-study}{%
+\subsubsection*{Smith and Jones Case Study}\label{smith-and-jones-case-study}}
+\addcontentsline{toc}{subsubsection}{Smith and Jones Case Study}
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{0.0556}}@{}}
-\caption{fa-book: Read the section on euthanasia by Hugo Adam Bedau (pages 397-406) in your \emph{Readings} textbook.}\tabularnewline
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\#\#\#\#\# Activity 8.4: Smith and Jones Case Study
-:fa-book: Read and analyze the case study presented.
-\end{minipage} \\
-\midrule\noalign{}
-\endfirsthead
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\#\#\#\#\# Activity 8.4: Smith and Jones Case Study
-:fa-book: Read and analyze the case study presented.
-\end{minipage} \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-\#\#\#\#\# Activity 8.5: Key Terms Quiz
-:fa-pencil: Take the ungraded quiz to review important concepts. \\
-\end{longtable}
+Read and analyze the case study presented.
+
+\hypertarget{key-terms-quiz-6}{%
+\subsubsection*{Key Terms Quiz}\label{key-terms-quiz-6}}
+\addcontentsline{toc}{subsubsection}{Key Terms Quiz}
+
+Take the ungraded quiz to review important concepts.
 
 \hypertarget{assignment-5}{%
-\paragraph{\texorpdfstring{\textbf{Assignment}}{Assignment}}\label{assignment-5}}
+\subsubsection*{\texorpdfstring{\textbf{Assignment}}{Assignment}}\label{assignment-5}}
+\addcontentsline{toc}{subsubsection}{\textbf{Assignment}}
 
-:fa-pencil: Reflective Journal (5\%)
+Reflective Journal (5\%)
+\end{reflect}
 
 \hypertarget{resources-7}{%
-\section{Resources}\label{resources-7}}
+\subsection*{Resources}\label{resources-7}}
+\addcontentsline{toc}{subsection}{Resources}
 
 Here are the resources you will need to complete this unit.
-- Wolff, Jonathan. ~\emph{Readings in Moral Philosophy}. ~New York: W. W. Norton \& Company, 2018.
-- Other online resources will be provided in the unit
 
-\hypertarget{topic-1-active-passive-euthanasia}{%
-\section{Topic 1: Active \& Passive Euthanasia}\label{topic-1-active-passive-euthanasia}}
+\begin{itemize}
+\tightlist
+\item
+  Wolff, Jonathan. ~\emph{Readings in Moral Philosophy}. ~New York: W. W. Norton \& Company, 2018.\\
+\item
+  Other online resources will be provided in the unit.
+\end{itemize}
+
+\hypertarget{active-passive-euthanasia}{%
+\section*{Active \& Passive Euthanasia}\label{active-passive-euthanasia}}
+\addcontentsline{toc}{section}{Active \& Passive Euthanasia}
 
 \textbf{Active euthanasia} occurs when steps are taken to euthanize a person, perhaps by giving a lethal injection or an overdose of pain-killers. \textbf{Passive euthanasia} happens when life-saving medical equipment is either withheld or withdrawn from a person with the intention of letting that person die from their underlying disease or condition.
 Are active and passive euthanasia morally equivalent to each other? In other words, is one of these just as good (or bad) as the other, or is one morally worse than the other? How does one decide a question like this?
@@ -2454,94 +2475,345 @@ Related to this question is the distinction between \textbf{killing} and \textbf
 If all other factors were the same, asks Rachels, such as our motives and purposes in acting, would killing a person be morally worse than letting that same person die? His answer may surprise you. The way we reply to this question will have far-reaching implications for our views concerning passive euthanasia and physician-assisted suicide.
 
 \hypertarget{learning-activities-19}{%
-\subsection{Learning Activities}\label{learning-activities-19}}
+\subsection*{Learning Activities}\label{learning-activities-19}}
+\addcontentsline{toc}{subsection}{Learning Activities}
 
-\href{../_8-1}{plugin:content-inject}
-
-\hypertarget{activity-8.1-read-view-and-reflect}{%
-\subsubsection{Activity 8.1: Read, View and Reflect}\label{activity-8.1-read-view-and-reflect}}
+\begin{reflect}
+\hypertarget{read-view-and-reflect-25}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-25}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
 
 In the first activity, you are asked to read the section on euthanasia by James Rachels (pages 372-378) and Philippa Foot (379-388) in your textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
 Next, choose from the following videos to learn more about key terms from this
 topic.
+\end{reflect}
 
-\href{https://www.youtube.com/watch?v=3IsloHmKvWA}{plugin:youtube}
-Note that the first part of the video focusses on abortion, but it relevant to the discussion on euthanasia. If you prefer to skip ahead, go to 6:42 minute mark for euthanasia-specific content.
+\begin{caution}
+\textbf{Note} that the first part of the video focusses on abortion, but it relevant to the discussion on euthanasia. If you prefer to skip ahead, go to 6:42 minute mark for euthanasia-specific content.
+\end{caution}
 
-\hypertarget{topic-2-capital-punishment-a-defense}{%
-\section{Topic 2: Capital Punishment: A Defense}\label{topic-2-capital-punishment-a-defense}}
+\hypertarget{capital-punishment-a-defense}{%
+\section*{Capital Punishment: A Defense}\label{capital-punishment-a-defense}}
+\addcontentsline{toc}{section}{Capital Punishment: A Defense}
 
 The issue of capital punishment presents us with a starkly different kind of end-of-life ethical question. We are no longer considering our best course of action toward our loved ones who are suffering or dying. Rather we are asking how someone who has committed vile crimes should be treated by their governments.
 Specifically, we are asking whether there are cases in which justice would allow for, or even require, a state to execute such a person. The challenge for all of us is to move beyond how we may feel toward people who have committed atrocious crimes, especially if they were against one of our loved ones, and ask if principles of justice would call for their execution.
 We will read a well-known case in favour of capital punishment by John Stuart Mill who argues on utilitarian grounds that having this option available will lead to better consequences for a society than ruling it out. It will be important for us to consider his arguments and see whether we agree with him or not.
-\#\#\# Learning Activities
-\href{../_8-2}{plugin:content-inject}
+\#\#\# Learning Activities \{-\}
 
-\hypertarget{activity-8.2-read-view-and-reflect}{%
-\subsubsection{Activity 8.2: Read, View and Reflect}\label{activity-8.2-read-view-and-reflect}}
+\begin{reflect}
+\hypertarget{read-view-and-reflect-26}{%
+\subsection*{Read, View and Reflect}\label{read-view-and-reflect-26}}
+\addcontentsline{toc}{subsection}{Read, View and Reflect}
 
-Read the section on capital punishment by John Stuart Mill (390-397) in your
-textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. Take notes defining
-key terms and ideas. Study the chapter review summary, questions and key terms.
-Next, choose from the following videos to learn more about key terms from this topic.
+\begin{itemize}
+\tightlist
+\item
+  Read the section on capital punishment by John Stuart Mill (390-397) in your textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff.\\
+\item
+  Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.\\
+\item
+  Next, choose from the following videos to learn more about key terms from this topic.
+\end{itemize}
+\end{reflect}
 
-\href{https://www.youtube.com/watch?v=8dnVZibrV6g}{plugin:youtube}
-\href{https://www.youtube.com/watch?v=H0CTHVCkm90}{plugin:youtube}
-\href{https://www.youtube.com/watch?v=sujAXjmjrpA}{plugin:youtube}
-
-\hypertarget{topic-3-how-to-reason-ethically-about-capital-punishment}{%
-\section{Topic 3: How to reason ethically about Capital Punishment}\label{topic-3-how-to-reason-ethically-about-capital-punishment}}
+\hypertarget{how-to-reason-ethically-about-capital-punishment}{%
+\section*{How to reason ethically about Capital Punishment}\label{how-to-reason-ethically-about-capital-punishment}}
+\addcontentsline{toc}{section}{How to reason ethically about Capital Punishment}
 
 In the previous topic, we learned how one thinker reasons in defense of capital punishment. Could it be, however, that neither side on this issue has conclusive arguments. That is the view of Hugo Bedau, an American political philosopher who has written an article we will read for this topic.
 How, then, should one proceed in figuring out this issue? Bedau contends that, since neither those who argue \textbf{for} or \textbf{against} bring overwhelming supporting arguments, a better way forward is to shift our focus to the \textbf{goals} of punishment in the first place.
 In other words, according to Bedau, the first question to ask is not whether capital punishment is ever morally justified, but rather, \textbf{what we are trying to accomplish by punishing} those who have committed vile crimes. Why do we punish them? What do we hope will be the outcome of our punishment? Different answers may be given to this question. Let's read Bedau's article to see how he answers it, and then see if this provides help in answering the larger question concerning the morality of capital punishment.
 
 \hypertarget{learning-activities-20}{%
-\subsection{Learning Activities}\label{learning-activities-20}}
+\subsection*{Learning Activities}\label{learning-activities-20}}
+\addcontentsline{toc}{subsection}{Learning Activities}
 
-\href{../_8-3}{plugin:content-inject}
-\#\#\#\# Activity 8.3: Read, View and Reflect
+\begin{reflect}
+\hypertarget{read-view-and-reflect-27}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-27}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
 
 Read the section on euthanasia by Hugo Adam Bedau (pages 397-406) in your
 textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. Take notes defining
 key terms and ideas. Study the chapter review summary, questions and key terms.
 
-\href{../_8-4}{plugin:content-inject}
+\hypertarget{key-terms-quiz-ungraded-6}{%
+\subsubsection*{Key Terms Quiz (ungraded)}\label{key-terms-quiz-ungraded-6}}
+\addcontentsline{toc}{subsubsection}{Key Terms Quiz (ungraded)}
 
-\hypertarget{activity-8.4-case-study}{%
-\subsubsection{Activity 8.4: Case Study}\label{activity-8.4-case-study}}
-
-Read the following case study and consider the questions presented.
-!!! Analyze James Rachels' `Smith and Jones' example from his article in the course readings. ~Drawing upon the arguments from all the readings for this unit, tell whether you agree with his conclusion that this example shows that in cases like this, killing a person is no worse morally than letting that same person die, that these two actions are morally equivalent? ~Why or why not? Then explain why Don Marquis would probably disagree with Rachels' conclusion.
-\emph{Note that you may be asked to review this case or similar cases in your class discussion groups. You may want to prepare by relating the case to your readings. Specifically, identify the ethical issues and terms to help explain the case.}
-
-\href{../_8-5}{plugin:content-inject}
-\#\#\#\# Activity 8.5: Key Terms Quiz (ungraded)
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 Match the following terms to their correct definition.
 
-{[}h5p id=``11''{]}
+\hypertarget{case-study-1}{%
+\subsubsection*{Case Study}\label{case-study-1}}
+\addcontentsline{toc}{subsubsection}{Case Study}
 
-title: Assessment
-date: `00:33 11-12-2018'
-hide\_page\_title: false
-hide\_git\_sync\_repo\_link: false
----
-\#\#\# Assignment: Reflective Journal (5\%)
+Read the following case study and consider the questions presented.
+Analyze James Rachels' `Smith and Jones' example from his article in the course readings. ~Drawing upon the arguments from all the readings for this unit, tell whether you agree with his conclusion that this example shows that in cases like this, killing a person is no worse morally than letting that same person die, that these two actions are morally equivalent? ~Why or why not? Then explain why Don Marquis would probably disagree with Rachels' conclusion.
+\end{reflect}
+
+\begin{caution}
+\textbf{Note} that you may be asked to review this case or similar cases in your class discussion groups. You may want to prepare by relating the case to your readings. Specifically, identify the ethical issues and terms to help explain the case.
+\end{caution}
+
+\hypertarget{assessment-7}{%
+\section*{Assessment}\label{assessment-7}}
+\addcontentsline{toc}{section}{Assessment}
+
+\begin{assessment}
+\hypertarget{assignment-reflective-journal-5}{%
+\subsubsection*{Assignment: Reflective Journal (5\%)}\label{assignment-reflective-journal-5}}
+\addcontentsline{toc}{subsubsection}{Assignment: Reflective Journal (5\%)}
+
 After completing this unit, including the learning activities, you are asked to write about what you have learned in this unit.
 State John Stuart Mill's case for the moral permissibility of capital punishment and show how it grows out of his utilitarian perspective. ~Then explain a number of questions Hugo Bedau would raise about the argument made by Mill. Tell why, in the end, he would favour the abolition of capital punishment. ~Finally, discuss which view, Bedau's or Mill's, you would prefer and why.
-\#\#\#\# Discussion Responses
+
+\hypertarget{discussion-responses-3}{%
+\subsubsection*{Discussion Responses}\label{discussion-responses-3}}
+\addcontentsline{toc}{subsubsection}{Discussion Responses}
+
 After you have finished your journal assignment, you will share your responses in class with your peers. Refer to the \textbf{grading criteria} in the Assessments section of this course. Be sure to include your initial journal response, as well as ideas from your class discussion. Submit your assignment on Moodle by the end of the week.
+\end{assessment}
 
 \hypertarget{checking-your-learning-7}{%
-\section{Checking your Learning}\label{checking-your-learning-7}}
+\section*{Checking your Learning}\label{checking-your-learning-7}}
+\addcontentsline{toc}{section}{Checking your Learning}
 
+\begin{progress}
 Before you move on to the next unit, you may want to check to make sure that you
 are able to:
-- Describe key concepts in the euthanasia discussion including euthanasia, active euthanasia, passive euthanasia, voluntary euthanasia, non-voluntary euthanasia, and killing versus letting die.
-- Explain James Rachels' moral equivalency argument concerning active euthanasia and passive euthanasia.
-- Articulate John Stuart Mill's case for the moral permissibility of capital punishment.
-- Discuss the strongest objections to the case for capital punishment.
+
+\begin{itemize}
+\tightlist
+\item
+  Describe key concepts in the euthanasia discussion including euthanasia, active euthanasia, passive euthanasia, voluntary euthanasia, non-voluntary euthanasia, and killing versus letting die.\\
+\item
+  Explain James Rachels' moral equivalency argument concerning active euthanasia and passive euthanasia.\\
+\item
+  Articulate John Stuart Mill's case for the moral permissibility of capital punishment.\\
+\item
+  Discuss the strongest objections to the case for capital punishment.
+\end{itemize}
+\end{progress}
+
+\hypertarget{the-ethics-of-torture-and-terrorism}{%
+\section{The Ethics of Torture and Terrorism}\label{the-ethics-of-torture-and-terrorism}}
+
+\includegraphics{assets/unit-9/U9_chair-3624563_1920.jpg}
+
+\emph{image of a broken saloon chair. Photo Credit: \href{https://pixabay.com/en/chair-seat-treatment-interrogation-3624563/}{Pixabay}}
+
+\hypertarget{overview-8}{%
+\section*{Overview}\label{overview-8}}
+\addcontentsline{toc}{section}{Overview}
+
+Welcome to Unit 9. In this unit we will be addressing a harsh and disquieting topic, namely torture and terrorism. Perhaps you've never thought of this as an issue open to ethical discussion. It's just bad people and corrupt governments who use torture techniques, isn't it, so what is there to discuss about the ethics of this practice?
+
+That's a fair question. This topic has not been part of the normal civilized discourse for a few centuries now. A few recent events, however, have moved it into the realm of discussion and it has, for better or worse, become a topic no one can avoid in the worlds of ethics and politics.
+
+Torture, in the sense we will use it in this unit, involves \textbf{inflicting pain or suffering on a person by the state for the purpose of extracting information}. The usual justification offered is that this information could, conceivably, be useful in saving other human lives. In our reading by Alan Dershowitz, American lawyer and Harvard University professor emeritus, we will see a fuller definition which contains these same elements.
+
+The ethical question we will face is whether we are ever morally justified in supporting our governments to carry out this practice. Imagine a government in possession of people who may have information which could be useful in preventing the suffering or deaths of many more people. Remember the people who may be tortured need not be guilty of any wrong doing. Their only ``offence'' is having information that a particular government believes could conceivably be useful in saving other lives.
+
+To take a real-life example, in 1978, would the government of Italy have been justified in using torturous interrogation methods on a person in their possession to try to gain information which could possibly have led to the release of their former prime minister who had been captured by terrorists? The Italian police chose not to use such methods, believing their country could not withstand the introduction of torture to their culture. The prime minister was later executed by his captors. Or another: would the government of the United States be justified in using torture techniques today to try prevent a recurrence of 9/11?
+
+In our second reading, by Michael Walzer, an American political philosopher who has worked a great deal on issues of social justice, we will shift our focus to the issue of terrorism. Once again, many of us have never considered terrorism to be an issue which is up for ethical discussion. Terrorism is evil, pure and simple, isn't it? What's there to discuss about the ethics of terrorism? Interestingly, arguments and reasons have been offered in support of acts of terrorism in certain cases and Walzer presents a number of them in his article. Once we understand these arguments, we will be in a position to evaluate them.
+
+For instance, in both readings for this unit, we will see that the utilitarian argument in favour of torture is that it has the potential to save many lives and prevent much suffering by causing the suffering of only one person. We will have opportunities to discuss this argument and others, too, with our class colleagues to determine if there are any problems with them.
+Let's prepare for some fascinating reading and lively discussion on an intense current social issue.
+
+\hypertarget{topics-8}{%
+\subsection*{Topics}\label{topics-8}}
+\addcontentsline{toc}{subsection}{Topics}
+
+This unit is divided into two topics:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Is Torture ever Justified? ~
+\item
+  A Rationale for Terrorism: A Response. ~
+\end{enumerate}
+
+\hypertarget{learning-outcomes-8}{%
+\subsection*{Learning Outcomes}\label{learning-outcomes-8}}
+\addcontentsline{toc}{subsection}{Learning Outcomes}
+
+When you have completed this unit you should be able to:
+
+\begin{itemize}
+\tightlist
+\item
+  Define key terms in the discussions of torture and terrorism including lethal versus non-lethal torture, ``ticking bomb'' cases, coercive interrogation, and terrorism.\\
+\item
+  Explain how Alan Dershowitz's view permitting torture in certain cases arises from a utilitarian perspective.\\
+\item
+  Describe how the question of torture pits certain widely held values against each other.\\
+\item
+  State a rationale terrorists often use to justify their actions.\\
+\item
+  Discuss objections to this terrorist rationale.
+\end{itemize}
+
+\hypertarget{activity-checklist-8}{%
+\subsection*{Activity Checklist}\label{activity-checklist-8}}
+\addcontentsline{toc}{subsection}{Activity Checklist}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-28}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-28}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+\begin{itemize}
+\tightlist
+\item
+  Read the section on terror and torture by Alan Dershowitz (pages 488-501) in your \emph{Readings} textbook. Watch the videos related to the topic.\\
+\item
+  Read the section on terror and torture by Michael Walzer (pages 501-511) in your \emph{Readings} textbook. Watch the videos related to the topic.
+\end{itemize}
+
+\hypertarget{current-event-search}{%
+\subsubsection*{Current Event Search}\label{current-event-search}}
+\addcontentsline{toc}{subsubsection}{Current Event Search}
+
+Look up current events regarding torture and terrorism.
+
+\hypertarget{key-terms-quiz-7}{%
+\subsubsection*{Key Terms Quiz}\label{key-terms-quiz-7}}
+\addcontentsline{toc}{subsubsection}{Key Terms Quiz}
+
+Take the ungraded quiz to review important concepts.
+
+\hypertarget{assignment-6}{%
+\subsubsection*{\texorpdfstring{\textbf{Assignment}}{Assignment}}\label{assignment-6}}
+\addcontentsline{toc}{subsubsection}{\textbf{Assignment}}
+
+Ethics Video (15\%)
+\end{reflect}
+
+\hypertarget{resources-8}{%
+\subsection*{Resources}\label{resources-8}}
+\addcontentsline{toc}{subsection}{Resources}
+
+Here are the resources you will need to complete this unit.
+
+\begin{itemize}
+\tightlist
+\item
+  Wolff, Jonathan.~\emph{Readings in Moral Philosophy}. ~New York: W. W. Norton \& Company, 2018.\\
+\item
+  Other online resources will be provided in the unit.
+\end{itemize}
+
+\hypertarget{is-torture-ever-justified}{%
+\section*{Is Torture Ever Justified?}\label{is-torture-ever-justified}}
+\addcontentsline{toc}{section}{Is Torture Ever Justified?}
+
+Are governments ever justified in using torture? Are we, as citizens, ever justified in supporting them in using torturous methods? In all ethical questions, facts matter greatly and this issue is no exception. Here are a few facts which are often raised in discussing this issue.
+
+First, many countries signed the Geneva Convention in the mid-1980s which bans torture in all forms, and yet a good number of them continue to practice or use severe forms of torture anyway. In other words, hypocrisy on this issue is rampant. To make matters worse, since it is in violation of the convention, the torture is going on behind closed doors, unacknowledged, so there are no controls.
+
+A second fact: As Alan Dershowitz points out in the article we will read by him, if a terrorist attack like 9/11 happened, and it was later revealed that the police had deliberately refused to take action that might have prevented the attack, including torture, there would be a great outcry.
+
+One final unsettling fact is that, while it is commonly asserted that torture does not ``work'' because people will say anything to end the torture, Dershowitz highlights examples of where it has been successful in extracting useful information which has saved innocent civilians. This, he says, is precisely why a good number of countries continue to use it and, even those which say they do not, often utilize other countries as third parties to carry out torturous interrogations.
+
+Do these facts make a difference in our ethical analysis of this question? If torture is happening anyway, and would, in certain cases, be desired by the general public, is it ethically preferable, as some argue, to legalize this practice, bring it out into the open, and place some controls on it? Is this what we should be encouraging our governments to do?
+
+Furthermore, does it make a difference whether it works or not, whether it can successfully extract information which may save other lives? If it does not matter, why then do people who oppose torture often argue that it doesn't work? Proper ethical inquiry must apply rigorous reasoning in analyzing these facts.
+
+These facts lead people to take differing opinions on this issue. As we read the article by Alan Derschowitz, we'll have an opportunity to engage with a number of the questions and arguments often expressed in both defending and criticizing the use of torture.
+
+\hypertarget{learning-activities-21}{%
+\subsection*{Learning Activities}\label{learning-activities-21}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-29}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-29}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+In the first activity, you are asked to read the section on terror and torture by Alan Dershowitz (pages 488-501) in your textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
+Next, view the following resources to learn more about key terms from this topic.
+
+\href{https://ethicsunwrapped.utexas.edu/america-awesome-right}{America is Awesome\ldots Right?!}
+\end{reflect}
+
+\hypertarget{a-rationale-for-terrorism-a-response}{%
+\section*{A Rationale for Terrorism: A Response}\label{a-rationale-for-terrorism-a-response}}
+\addcontentsline{toc}{section}{A Rationale for Terrorism: A Response}
+
+In this topic, we are shifting focus from torture to terrorism and this raises an immediate question: Isn't terrorism simply evil through and through? Shouldn't people who commit acts of terrorism be caught and locked up, and shouldn't that be the end of the matter? If so, then why are we discussing this issue in a course on ethics? What is there to discuss about the ethics of this practice?
+Surprisingly, certain people have offered justifications for acts of terrorism under certain conditions, complete with arguments and lines of reasoning. In this topic, we will have an opportunity to acquaint ourselves with some of them through reading an article by Michael Walzer, an American political philosopher who has worked a great deal on issues of social justice. In this article, he has articulated a number of the arguments that are sometimes offered in support of certain acts of terrorism along with his own critiques of them. Once we have understood them, we'll be in a position to assess them.
+
+\hypertarget{learning-activities-22}{%
+\subsection*{Learning Activities}\label{learning-activities-22}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\begin{reflect}
+\hypertarget{read-view-and-reflect-30}{%
+\subsubsection*{Read, View and Reflect}\label{read-view-and-reflect-30}}
+\addcontentsline{toc}{subsubsection}{Read, View and Reflect}
+
+Read the section on terror and torture by Michael Walzer (pages 501-511) in your textbook, \emph{Readings in Moral Philosophy} by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+Next, choose from the following videos to learn more about key terms from this topic.
+
+\hypertarget{current-events}{%
+\subsubsection*{Current Events}\label{current-events}}
+\addcontentsline{toc}{subsubsection}{Current Events}
+
+Go online and search for one or two current incidents involving torture. Next, apply the principles gained from both readings to these situations. Finally, consider whether you believe the torture used was ethically justified and give reasons for your position. Write your thoughts in your notes and review them as you complete the assessment for this unit.
+
+\hypertarget{key-terms-quiz-ungraded-7}{%
+\subsubsection*{Key Terms Quiz (ungraded)}\label{key-terms-quiz-ungraded-7}}
+\addcontentsline{toc}{subsubsection}{Key Terms Quiz (ungraded)}
+
+In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
+Match the following terms to their correct definition.
+\end{reflect}
+
+\hypertarget{assessment-8}{%
+\section*{Assessment}\label{assessment-8}}
+\addcontentsline{toc}{section}{Assessment}
+
+\begin{assessment}
+\hypertarget{assignment-reflective-journal-ungraded-practice-3}{%
+\subsubsection*{Assignment: Reflective Journal (ungraded practice)}\label{assignment-reflective-journal-ungraded-practice-3}}
+\addcontentsline{toc}{subsubsection}{Assignment: Reflective Journal (ungraded practice)}
+
+After completing this unit, including the learning activities, you are asked to write about what you have learned in this unit. Remember that you should consider your journal as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community.
+Write a 250-400 word journal response discussing the reasons Alan Dershowitz believes that, in certain cases, torture is morally permissible when carried out under rigorous regulations. ~Then show how he believes his view follows from a utilitarian perspective. Following that, analyze his view and formulate two searching questions you think he would need to answer to defend his view further. ~Finally, tell how you think a different utilitarian thinker could argue against the moral permissibility of torture?
+
+\hypertarget{discussion-responses-4}{%
+\subsubsection*{Discussion Responses}\label{discussion-responses-4}}
+\addcontentsline{toc}{subsubsection}{Discussion Responses}
+
+After you have finished your journal assignment, you will share your responses in class with your peers. As you discuss, be sure to respond substantively.
+
+\hypertarget{assignment-ethics-video-15}{%
+\subsection*{Assignment: Ethics Video (15\%)}\label{assignment-ethics-video-15}}
+\addcontentsline{toc}{subsection}{Assignment: Ethics Video (15\%)}
+
+This video must be posted on Moodle by the end of week 9. ~If you choose to post it online outside of Moodle (e.g.~YouTube), please provide the URL. \textbf{You will write 3 posts (150 words each) responding to three videos presented by your classmates, stating your agreement or disagreement with the arguments in the video, and explaining why you agree or disagree.} Refer to the assignment details and \textbf{grading criteria} in the Assessments section of this course.
+\end{assessment}
+
+\hypertarget{checking-your-learning-8}{%
+\section*{Checking your Learning}\label{checking-your-learning-8}}
+\addcontentsline{toc}{section}{Checking your Learning}
+
+\begin{progress}
+Before you move on to the next unit, you may want to check to make sure that you
+are able to:
+- Define key terms in the discussions of torture and terrorism including lethal versus non-lethal torture, ``ticking bomb'' cases, coercive interrogation, and terrorism.\\
+- Explain how Alan Dershowitz's view permitting torture in certain cases arises from a utilitarian perspective.\\
+- Describe how the question of torture pits certain widely held values against each other.\\
+- State a rationale terrorists often use to justify their actions.\\
+- Discuss objections to this terrorist rationale.
+\end{progress}
 
 \hypertarget{references}{%
 \chapter*{References}\label{references}}
