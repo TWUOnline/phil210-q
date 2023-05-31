@@ -1,0 +1,241 @@
+# World Hunger and Foreign Aid
+
+
+![](assets/unit_10/U10_kid-2101832_1920.jpg)
+
+*image of a child looking away. Photo Credit: [Pixabay](https://pixabay.com/en/kid-child-sad-red-stripe-shirt-2101832/)*
+
+## Overview {-}
+
+Do people in prosperous countries have a moral obligation to provide help to other people in parts of the world where they do not have their basic needs satisfied? If so, why, and how should they carry out this moral obligation?
+
+Clearly there are some people in the world, many people, who *could* send food, clothing, money, medical equipment, etc., to others who do not have enough to survive on their own. This situation forces an ethical question upon us all: **If people can help in these ways, should they?** In other words, if people are *able* to help, are they, thereby, morally *obligated* to do so? Or is there no such moral obligation? Could it even be, as some argue, that we are morally required *not* to help, at least in ways that some people think we are?
+
+The way we answer this question has some rather serious and unavoidable implications. If we answer, that we are, indeed, morally obligated to help if we can, we are then affirming that if people who can help do *not* do so, they are thereby acting immorally. They are violating their moral obligations in this regard.
+
+Other questions immediately come to mind too. Does it matter if those in need are related to us, or known to us, or if they live close by, or happen to be in distant countries? Would it affect our moral obligations if there are other people who could be helping those in need but aren’t? Is our moral obligation dependent upon factors like distance, relationships, other people’s actions, etc., or does it stand completely independent of them?
+
+In this unit we will become acquainted with three very different viewpoints on this question. This will provide us an opportunity to compare these different perspectives and assess them. Which one, or ones, do we agree with, and why? Is one ethically superior to the others? Again, why? To evaluate the various perspectives, we will first need to understand and evaluate the *basis* for each.
+
+### Topics {-}
+
+This unit is divided into 3 topics:
+
+1. A Proposed Basis for Moral Obligation  
+2. Does our aid help or hurt?  
+3. How to Think about Moral Obligation to those in need.  
+
+### Learning Outcomes {-}
+
+When you have completed this unit you should be able to:
+
+- Explain Peter Singer’s reasons for believing that people who are able to help others meet their basic needs have a moral obligation to do so.  
+- Discuss the argument that the difference in physical proximity of the people needing aid is a morally insignificant difference.  
+- Explain why Dambisa Moyo thinks foreign aid does more harm than good for the people it is intended to help.  
+- Discuss ways in which both utilitarianism and Kant’s principle of treating people as ends in themselves can clarify and guide our discussion of the question of our duty to provide aid to others.  
+
+
+### Activity Checklist {-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+<!-- [plugin:content-inject](_schedule) Hidden comment -->
+
+```{block2, type='reflect'}
+
+#### Read, View and Reflect {-}
+
+- Read the section on world hunger and foreign aid by Peter Singer, (pages 612-622) in your *Readings* textbook.  
+- Read the section on world hunger and foreign aid by Dambisa Moyo (pages 622-626) in your *Readings* textbook.
+- Read the section on world hunger and foreign aid by Onora O’Neill (pages 626-638) in your *Readings* textbook.
+
+#### Webquest for help {-}  
+
+Go online and search for foreign aid organizations.  
+
+#### Drowning Case Study {-}
+
+Read the case study of the drowning child in the pond.
+
+
+#### Key Terms Quiz {-}
+
+Take the ungraded quiz to review important concepts.
+
+
+#### **Assignment** {-}
+
+Partner Project Presentation (30%)
+
+```
+
+### Resources {-}
+
+Here are the resources you will need to complete this unit.
+
+- Wolff, Jonathan.  *An Introduction to Moral Philosophy*.  New York: W. W. Norton & Company, 2018.  
+- Wolff, Jonathan.  *Readings in Moral Philosophy*.  New York: W. W. Norton & Company, 2018.  
+- Other online resources will be provided in the unit.  
+
+## A Proposed Basis for Moral Obligation {-}
+
+Do we have a moral obligation to help others? Our first task in unpacking this question is to see why some ethicists think that people who *can* help *should* do so, why they have a *moral obligation* to help? How does one establish a basis for such an obligation?
+
+American philosopher, Peter Singer, sets out a basis for moral obligation which he believes most reasonable people would agree with, and we will read about it in our first reading selection.
+
+Singer presents an intriguing analogy of a professor on his way to class who suddenly sees a young child drowning in a pond. Should he stop and save the drowning child? If he does, he will not only ruin his suit and shoes, but also miss class and cheat the waiting students out of the teaching time for which they have paid. These sacrifices, however, are miniscule compared to the value of a child’s life and, therefore says Singer, the professor *should* jump in and save the child. He is morally obligated to do so.
+
+Singer believes that no reasonable person would disagree with this conclusion. He then states a principle which, he believes, can be derived from this child-in-the-pond analogy: **If we are able to prevent something bad from happening without, thereby, sacrificing something of comparable value, we should do so**.
+
+He adds a few other elements to his theory along the way and, as we come to understand this principle, it will be important to ask ourselves whether we agree with it because his entire case rests on it. Let’s also think about possible objections to his view because, as noted earlier, his perspective is only one of three we will consider. We’ll get to the other two views in the next topic, but for now, let’s explore singer’s argument further.
+
+### Learning Activities {-}
+
+<!-- [plugin:content-inject](../_10-1)  -->
+
+```{block2, type='reflect'}
+
+### Read, View and Reflect {-}
+
+In the first activity, you are asked to read the section on world hunger and foreign aid by Peter Singer, (pages 612-622) in your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. As you read be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course.
+Next, watch the following short videos to learn more about key terms from this unit.
+
+ 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DUH6G_inwZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6AkvEAbCC4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+```
+
+## Does our aid help or hurt? {-}
+
+Can we really disagree with Singer’s conclusion to his child-in-the-pond analogy? One person who offers a very different perspective is Zambian economist, Dambisa Moyo. In our second reading selection, we’ll see her argument. You may find it surprising.
+Moyo makes a distinction between **humanitarian aid** and **development aid** and argues that development aid has actually been tried and proven to be ineffective, even harmful, in many parts of the world. Overall, she asserts, it has actually done more harm than good and has left people worse off than they would have been without the aid. To make matters worse, it has slowed development and progress rather than enhanced it.
+These are strong claims and we will have an opportunity to consider whether we agree with her use of the facts, her reasoning, and conclusions? If so, has she shown that Singer’s case is flawed and his conclusion about a moral basis, mistaken, or could both he and she be correct?
+
+### Learning Activities {-}
+
+<!-- [plugin:content-inject](../_10-2) -->
+
+```{block2, type='reflect'}
+
+#### Read, View and Reflect {-}
+
+Read the section on world hunger and foreign aid by Dambisa Moyo (pages 622-626) in *An Introduction to Moral Philosophy*. Take notes on questions and key terms.
+Next, choose from the following videos to learn more about key terms from this chapter.
+
+
+
+<div class="video-container"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/inClCwsVwjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+
+<div class="video-container"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xNfOnqf5g6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+<div class="video-container"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dxhj4Jg3dzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<!-- [plugin:content-inject](../_10-3)  -->
+
+#### Webquest for Help! {-}
+
+Go online and search for foreign aid organizations. What is their philosophy or approach to helping people? See for example the Habitat for Humanity website at <https://www.habitat.ca/>. How do they help people? Can you discern their reasons for doing so from their website? Of the views of helping we’ve discussed so far in this unit, which view do you think these actions support and why?
+
+```
+
+## How to think about moral obligation to those in need {-}
+
+Since questions concerning our moral obligation to needy people involve their very lives and well-being, it is important to ask if there are better or worse ways to reason and investigate this question. In our third reading selection, Onora O’Neill, an Irish moral and political philosopher, and expert in Kantian moral philosophy, raises exactly this question. O’Neill moves beyond the debate about the existence of a moral obligation and suggests that various moral theories, but especially Kantian moral theory, can guide our thinking on the issues of hunger and our obligation concerning it. How can it help?
+Kantian moral philosophy, she says, shifts our focus from the **results** of various actions we might take to the **kinds of actions** we might carry out.
+More specifically, it urges the kinds of actions which adhere to Immanuel Kant’s famous ethical principle, **the categorical imperative.** This principle states in one of its forms that we should always treat other people as ends in themselves, and never merely as means to our own personal ends.
+When we apply this principle to the question at hand, it means, says O’Neill, that the actions we take concerning humanitarian and development aid must be the kind that help those who receive the aid take control of their own lives and, whenever possible, gain the ability to create their own best solutions to their situations.
+Her argument is important because, if she is correct, it means that a number of humanitarian and aid programs can be criticized for the kinds of actions they take. We will have opportunity to discuss her proposal with class colleagues to see if we agree with her and, if not, why not.
+
+### Learning Activities {-}
+
+<!-- [plugin:content-inject](../_10-4)  -->
+
+```{block2, type='reflect'}
+
+#### Read, View and Reflect {-}
+
+Read the section on world hunger and foreign aid by Onora O’Neill (pages 626-638) in your course textbook, *Readings in Moral Philosophy* by Jonathan Wolff. Study the chapter review summary, questions and key terms.
+Next, choose from the following videos to learn more about key terms from this chapter.
+
+
+<div class="video-container"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D5sknLy7Smo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+<div class="video-container"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8bIys6JoEDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<!-- [plugin:content-inject](../_10-5)  -->
+
+#### Case Study {-}
+
+Read Peter Singer’s famous analogy of the drowning child in the pond (found on p. 612-13, 617 of the course readings text).  Do you agree with his conclusion that you have a moral obligation to save the child if you can? Do you also agree with the principle he draws from this analogy, i.e., that if we are able to prevent something bad from happening without thereby sacrificing anything of comparable value, we ought morally to do it.  Why or why not? Finally, drawing upon Onora O’Neill’s article, comment on how both a utilitarian and an advocate of Kant’s principle that humans ought to be treated as ends and not merely as means to others’ ends, would evaluate Singer’s principle.
+*Note that you may be asked to review this case or similar cases in your class discussion groups. You may want to prepare by relating the case to your readings. Specifically, identify the ethical issues and terms to help explain the case.*
+
+<!-- [plugin:content-inject](../_10-6) -->
+
+#### Key Terms Quiz (ungraded) {-}
+
+In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
+Match the following terms to their correct definition.
+
+```
+
+## Assessment {-}
+
+<!-- [plugin:content-inject](../_Assignment1) -->
+
+```{block2, type='assessment'}
+
+### Assignment {-}
+
+#### Ethics Committee Response (ungraded practice) {-}
+
+After completing this unit, including the learning activities, you are asked to
+meet with your Ethics Committee one more time and discuss the following:
+
+A local government task force on foreign aid has contacted your Ethics committee and asked for your recommendations concerning the question of whether to raise local taxes to send food and clothes to mud slide victims in South America.  As a committee, begin by brainstorming about the basis provided by Peter Singer for our moral obligation to provide assistance to others in need.
+
+In your discussion, include issues such as the relevance (or irrelevance) of the physical proximity of the recipients of our aid, the traditional distinction between duty and charity, and the place of population control. Then, drawing upon Dambisa Moyo’s article, discuss ways of critiquing Singer’s argument for this moral obligation.
+
+As you meet with your Ethics Committee this week, discuss the case above and take notes as a group.
+
+<!-- [plugin:content-inject](../_Assignment2) -->
+
+#### Partner Project Presentation (40%) {-}
+
+This week we will have the last of the partner presentations. Once you have
+presented, be sure to submit your project to the instructor for marking via
+Moodle. Refer to the assignment details and **grading criteria** in the Assessments section of this course.
+
+<!-- [plugin:content-inject](../_Assignment3) -->
+
+#### Ethics Committee Self-Reflection (Ungraded) {-}
+
+This assignment is an opportunity for you to look back at your Ethics Committee experience and share what you have learned from this activity. Write a 150-200 word response that addresses the following questions:
+
+1. In what ways did participating in the Ethics Committee increase your understanding of key ideas?  Give specific examples to explain.  
+2. Describe a typical meeting for your group.  How did the group ensure everyone could share their opinion and share in writing the reports?  
+3. If you were a part of a real Ethics Committee, what is one takeaway from this activity that you would make sure to do?  
+4. What has been the biggest change to your thinking about ethics since the beginning of this course?  
+5. How has your response to contemporary ethical issues changed as a result of taking this course?  
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Explain Peter Singer’s reasons for believing that people who are able to help others meet their basic needs have a moral obligation to do so.  
+- Discuss the view that the difference in physical proximity of the people needing aid is a morally insignificant difference.  
+- Explain why Dambisa Moyo thinks foreign aid sometimes does more harm than good for the people it is intended to help.  
+- Discuss ways in which Kant’s principle of treating people as ends in themselves can clarify and guide our discussion of the question of our duty to provide aid to others.  
+
+```

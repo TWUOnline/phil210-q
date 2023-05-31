@@ -1,0 +1,260 @@
+\contentsline {chapter}{Welcome}{7}{chapter*.2}%
+\contentsline {subsection}{How To Navigate This Book}{7}{section*.3}%
+\contentsline {subsection}{Course Units}{8}{section*.4}%
+\contentsline {subsection}{Course Activities}{8}{section*.5}%
+\contentsline {chapter}{\numberline {1}The Nature of Moral Inquiry}{11}{chapter.1}%
+\contentsline {section}{Overview}{11}{section*.6}%
+\contentsline {section}{Topics}{13}{section*.7}%
+\contentsline {subsection}{Learning Outcomes}{13}{section*.8}%
+\contentsline {subsection}{Activity Checklist}{13}{section*.9}%
+\contentsline {subsubsection}{Learning Activities}{13}{section*.10}%
+\contentsline {subsubsection}{\numberline {1.0.0.1}\textbf {Assignment} :}{14}{subsubsection.1.0.0.1}%
+\contentsline {subsection}{Resources}{14}{section*.11}%
+\contentsline {subsection}{Activity : Introductions}{14}{section*.12}%
+\contentsline {section}{Developing a Moral Outlook}{14}{section*.13}%
+\contentsline {subsection}{Activity : Read, View and Reflect}{15}{section*.14}%
+\contentsline {section}{Moral Reasoning}{15}{section*.15}%
+\contentsline {subsection}{Learning Activities}{16}{section*.16}%
+\contentsline {subsubsection}{Read, View and Reflect}{16}{section*.17}%
+\contentsline {subsubsection}{Thought Experiment}{17}{section*.18}%
+\contentsline {section}{Cultural Relativism}{17}{section*.19}%
+\contentsline {subsection}{Learning Activities}{17}{section*.20}%
+\contentsline {subsubsection}{Read, View and Reflect}{17}{section*.21}%
+\contentsline {subsubsection}{Key Terms Quiz (ungraded)}{18}{section*.22}%
+\contentsline {section}{Assessment}{18}{section*.23}%
+\contentsline {subsection}{Assignment: Reflective Journal (ungraded practice)}{18}{section*.24}%
+\contentsline {subsubsection}{Assignment: Ethics Committee Response (20\%)}{19}{section*.25}%
+\contentsline {subsubsection}{Instructions for Assignment Submission}{19}{section*.26}%
+\contentsline {subsubsection}{Grading Rubric}{19}{section*.27}%
+\contentsline {section}{Checking your Learning}{20}{section*.28}%
+\contentsline {chapter}{\numberline {2}Foundational Moral Concepts}{21}{chapter.2}%
+\contentsline {section}{Overview}{22}{section*.29}%
+\contentsline {section}{Topics}{22}{section*.30}%
+\contentsline {subsection}{Learning Outcomes}{23}{section*.31}%
+\contentsline {subsection}{Activity Checklist}{23}{section*.32}%
+\contentsline {subsubsection}{Read, View and Reflect}{23}{section*.33}%
+\contentsline {subsubsection}{Facebook Case Study}{23}{section*.34}%
+\contentsline {subsubsection}{Key Terms Quiz}{23}{section*.35}%
+\contentsline {subsubsection}{\textbf {Assignment}}{23}{section*.36}%
+\contentsline {subsection}{Resources}{24}{section*.37}%
+\contentsline {subsection}{Moral Nihilism}{24}{section*.38}%
+\contentsline {subsection}{Learning Activities}{24}{section*.39}%
+\contentsline {subsubsection}{Read, View and Reflect}{24}{section*.40}%
+\contentsline {subsection}{Moral Objectivism vs.\nobreakspace {}Subjectivism}{25}{section*.41}%
+\contentsline {subsection}{Learning Activities}{26}{section*.42}%
+\contentsline {subsubsection}{Read, View and Reflect}{26}{section*.43}%
+\contentsline {subsection}{Free Will and Moral Responsibility}{26}{section*.44}%
+\contentsline {subsection}{Learning Activities}{27}{section*.45}%
+\contentsline {subsubsection}{Read, View and Reflect}{27}{section*.46}%
+\contentsline {subsubsection}{Facebook Case Study}{27}{section*.47}%
+\contentsline {subsubsection}{Key Terms Quiz (ungraded)}{27}{section*.48}%
+\contentsline {subsection}{Assessment}{28}{section*.49}%
+\contentsline {subsubsection}{Assignment: Reflective Journal (20\%)}{28}{section*.50}%
+\contentsline {subsection}{Discussion Responses}{28}{section*.51}%
+\contentsline {subsubsection}{Assignment: Ethics Committee Response (ungraded practice)}{29}{section*.52}%
+\contentsline {subsubsection}{Instructions for Assignment Submission}{29}{section*.53}%
+\contentsline {subsubsection}{Grading Criteria:}{29}{section*.54}%
+\contentsline {section}{Checking your Learning}{30}{section*.55}%
+\contentsline {chapter}{\numberline {3}Why Be Moral?}{31}{chapter.3}%
+\contentsline {section}{Overview}{33}{section*.56}%
+\contentsline {section}{Topics}{34}{section*.57}%
+\contentsline {subsection}{Learning Outcomes}{34}{section*.58}%
+\contentsline {subsection}{Activity Checklist}{35}{section*.59}%
+\contentsline {subsubsection}{Read, View and Reflect}{35}{section*.60}%
+\contentsline {subsubsection}{Wallet Case Study}{35}{section*.61}%
+\contentsline {subsubsection}{Read, View and Reflect}{35}{section*.62}%
+\contentsline {subsubsection}{Key Terms Quiz}{35}{section*.63}%
+\contentsline {subsubsection}{Ethics Committee Response (ungraded)}{35}{section*.64}%
+\contentsline {subsubsection}{\textbf {Assignment}}{35}{section*.65}%
+\contentsline {subsection}{Resources}{36}{section*.66}%
+\contentsline {subsection}{Egoism}{36}{section*.67}%
+\contentsline {subsection}{Learning Activities}{37}{section*.68}%
+\contentsline {subsubsection}{Read, View and Reflect}{37}{section*.69}%
+\contentsline {subsubsection}{Wallet Case Study}{37}{section*.70}%
+\contentsline {subsection}{Social Contract Morality}{37}{section*.71}%
+\contentsline {subsection}{Learning Activities}{38}{section*.72}%
+\contentsline {subsubsection}{Read, View and Reflect}{38}{section*.73}%
+\contentsline {subsubsection}{Key Terms Quiz (ungraded)}{38}{section*.74}%
+\contentsline {subsection}{Assessment}{38}{section*.75}%
+\contentsline {subsubsection}{Assignment: Ethics Committee Response (20\%)}{38}{section*.76}%
+\contentsline {subsubsection}{Assignment: Partner Project Presentation (30\%)}{39}{section*.77}%
+\contentsline {subsubsection}{Sign-up for the Partner Project Presentation}{39}{section*.78}%
+\contentsline {section}{Checking your Learning}{39}{section*.79}%
+\contentsline {chapter}{\numberline {4}How to Determine What is Moral}{41}{chapter.4}%
+\contentsline {section}{Overview}{41}{section*.80}%
+\contentsline {section}{Topics}{42}{section*.81}%
+\contentsline {subsection}{Learning Outcomes}{42}{section*.82}%
+\contentsline {subsection}{Activity Checklist}{43}{section*.83}%
+\contentsline {subsubsection}{Read, View and Reflect}{43}{section*.84}%
+\contentsline {subsubsection}{Diamond Case Study}{43}{section*.85}%
+\contentsline {subsubsection}{Ethics Simulation (Optional)}{43}{section*.86}%
+\contentsline {subsubsection}{Key Terms Quiz}{43}{section*.87}%
+\contentsline {subsubsection}{\textbf {Assignment}}{43}{section*.88}%
+\contentsline {subsection}{Resources}{43}{section*.89}%
+\contentsline {subsection}{Understanding the Original Position}{43}{section*.90}%
+\contentsline {subsection}{Learning Activities}{44}{section*.91}%
+\contentsline {subsubsection}{Read, View and Reflect}{44}{section*.92}%
+\contentsline {section}{Topic 2: Utilitarianism}{44}{section*.93}%
+\contentsline {subsection}{Learning Activities}{45}{section*.94}%
+\contentsline {subsubsection}{Read, View and Reflect}{45}{section*.95}%
+\contentsline {subsection}{The Categorical Imperative}{45}{section*.96}%
+\contentsline {subsection}{Learning Activities}{45}{section*.97}%
+\contentsline {subsubsection}{\numberline {4.0.0.1}Read, View and Reflect}{45}{subsubsection.4.0.0.1}%
+\contentsline {subsubsection}{Diamond Case Study}{45}{section*.98}%
+\contentsline {subsubsection}{Ethics Simulation (Optional)}{46}{section*.99}%
+\contentsline {subsubsection}{Key Terms Quiz (ungraded)}{46}{section*.100}%
+\contentsline {subsection}{Assessment}{46}{section*.101}%
+\contentsline {subsubsection}{Assignment: Ethics Committee Response (20\%)}{46}{section*.102}%
+\contentsline {subsubsection}{Assignment: Reflective Journal (ungraded practice)}{47}{section*.103}%
+\contentsline {subsubsection}{Discussion Responses}{47}{section*.104}%
+\contentsline {section}{Checking your Learning}{47}{section*.105}%
+\contentsline {chapter}{\numberline {5}Free Speech and its Limits}{49}{chapter.5}%
+\contentsline {section}{Overview}{51}{section*.106}%
+\contentsline {section}{Topics}{52}{section*.107}%
+\contentsline {subsection}{Learning Outcomes}{52}{section*.108}%
+\contentsline {subsection}{Activity Checklist}{52}{section*.109}%
+\contentsline {subsubsection}{Read, View and Reflect}{52}{section*.110}%
+\contentsline {subsubsection}{Controversial Speaker Case Study}{52}{section*.111}%
+\contentsline {subsubsection}{Key Terms Quiz}{53}{section*.112}%
+\contentsline {subsubsection}{Ethics Committee Response (ungraded)}{53}{section*.113}%
+\contentsline {subsection}{Resources}{53}{section*.114}%
+\contentsline {section}{A Moral Foundation for Free Speech}{53}{section*.115}%
+\contentsline {subsection}{Learning Activities}{54}{section*.116}%
+\contentsline {subsubsection}{Read, View and Reflect}{54}{section*.117}%
+\contentsline {section}{Pornography and Limits on Free Speech}{54}{section*.118}%
+\contentsline {subsection}{Learning Activities}{54}{section*.119}%
+\contentsline {subsection}{Read, View and Reflect}{54}{section*.120}%
+\contentsline {subsubsection}{Controversial Speaker Case Study}{55}{section*.121}%
+\contentsline {subsubsection}{Activity : Key Terms Quiz (ungraded)}{55}{section*.122}%
+\contentsline {subsection}{Assessment}{55}{section*.123}%
+\contentsline {subsubsection}{Assignment: Ethics Committee Response (10\%)}{55}{section*.124}%
+\contentsline {subsubsection}{Ethics Video Assignment: Choose Your Topic (15\%)}{56}{section*.125}%
+\contentsline {section}{Checking your Learning}{56}{section*.126}%
+\contentsline {chapter}{\numberline {6}Sexual Morality}{59}{chapter.6}%
+\contentsline {section}{Overview}{59}{section*.127}%
+\contentsline {subsection}{Topics}{61}{section*.128}%
+\contentsline {subsection}{Learning Outcomes}{61}{section*.129}%
+\contentsline {subsection}{Activity Checklist}{61}{section*.130}%
+\contentsline {subsubsection}{Read, View and Reflect}{61}{section*.131}%
+\contentsline {subsubsection}{Stuck in the Middle Case Study}{62}{section*.132}%
+\contentsline {subsubsection}{Key Terms Quiz}{62}{section*.133}%
+\contentsline {subsection}{Resources}{62}{section*.134}%
+\contentsline {section}{Date Rape}{62}{section*.135}%
+\contentsline {subsection}{Learning Activities}{62}{section*.136}%
+\contentsline {subsubsection}{Read, View and Reflect}{62}{section*.137}%
+\contentsline {section}{Alcohol \& Rape}{63}{section*.138}%
+\contentsline {subsection}{Learning Activities}{63}{section*.139}%
+\contentsline {subsubsection}{Read, View and Reflect}{63}{section*.140}%
+\contentsline {section}{Hookup Culture}{63}{section*.141}%
+\contentsline {subsection}{Learning Activities}{64}{section*.142}%
+\contentsline {subsubsection}{Read and Reflect}{64}{section*.143}%
+\contentsline {subsubsection}{\numberline {6.0.0.1}Key Terms Quiz (ungraded)}{64}{subsubsection.6.0.0.1}%
+\contentsline {subsubsection}{Stuck in the Middle Case Study}{64}{section*.144}%
+\contentsline {section}{Assessment}{65}{section*.145}%
+\contentsline {subsection}{Assignment: Ethics Committee Response (ungraded practice)}{65}{section*.146}%
+\contentsline {section}{Checking your Learning}{65}{section*.147}%
+\contentsline {chapter}{\numberline {7}Animal Rights}{67}{chapter.7}%
+\contentsline {section}{Overview}{67}{section*.148}%
+\contentsline {subsection}{Topics}{69}{section*.149}%
+\contentsline {subsection}{Learning Outcomes}{69}{section*.150}%
+\contentsline {subsection}{Activity Checklist}{70}{section*.151}%
+\contentsline {subsubsection}{Read, View and Reflect}{70}{section*.152}%
+\contentsline {subsubsection}{Singer Case Study}{70}{section*.153}%
+\contentsline {subsubsection}{AI Extension}{70}{section*.154}%
+\contentsline {subsubsection}{Key Terms Quiz}{70}{section*.155}%
+\contentsline {subsubsection}{\textbf {Assignment}}{70}{section*.156}%
+\contentsline {subsection}{Resources}{70}{section*.157}%
+\contentsline {section}{Are Animals Self-Aware?}{71}{section*.158}%
+\contentsline {subsection}{Learning Activities}{71}{section*.159}%
+\contentsline {subsubsection}{Read, View and Reflect}{71}{section*.160}%
+\contentsline {section}{Do We Practice Speciesism?}{71}{section*.161}%
+\contentsline {subsection}{Learning Activities}{72}{section*.162}%
+\contentsline {subsubsection}{Read, View and Reflect}{72}{section*.163}%
+\contentsline {section}{Animals-Do-Not-Have-Rights-But. . .}{72}{section*.164}%
+\contentsline {subsection}{Learning Activities}{73}{section*.165}%
+\contentsline {subsubsection}{Read, View and Reflect}{73}{section*.166}%
+\contentsline {subsubsection}{Case Study}{73}{section*.167}%
+\contentsline {subsubsection}{Key Terms Quiz (ungraded)}{74}{section*.168}%
+\contentsline {subsubsection}{Artificial Intelligence Extension}{74}{section*.169}%
+\contentsline {section}{Assessment}{74}{section*.170}%
+\contentsline {subsection}{Assignment: Ethics Committee Response (15\%)}{74}{section*.171}%
+\contentsline {subsection}{Assignment: Reflective Journal (ungraded practice)}{75}{section*.172}%
+\contentsline {subsection}{Discussion Responses}{75}{section*.173}%
+\contentsline {section}{Checking your Learning}{75}{section*.174}%
+\contentsline {chapter}{\numberline {8}End-of-Life Moral Dilemmas}{77}{chapter.8}%
+\contentsline {section}{Overview}{77}{section*.175}%
+\contentsline {subsection}{Topics}{79}{section*.176}%
+\contentsline {subsection}{Learning Outcomes}{79}{section*.177}%
+\contentsline {subsection}{Activity Checklist}{79}{section*.178}%
+\contentsline {subsubsection}{Read, View and Reflect}{79}{section*.179}%
+\contentsline {subsubsection}{Smith and Jones Case Study}{80}{section*.180}%
+\contentsline {subsubsection}{Key Terms Quiz}{80}{section*.181}%
+\contentsline {subsubsection}{\textbf {Assignment}}{80}{section*.182}%
+\contentsline {subsection}{Resources}{80}{section*.183}%
+\contentsline {section}{Active \& Passive Euthanasia}{80}{section*.184}%
+\contentsline {subsection}{Learning Activities}{81}{section*.185}%
+\contentsline {subsubsection}{Read, View and Reflect}{81}{section*.186}%
+\contentsline {section}{Capital Punishment: A Defense}{81}{section*.187}%
+\contentsline {subsection}{Read, View and Reflect}{81}{section*.188}%
+\contentsline {section}{How to reason ethically about Capital Punishment}{82}{section*.189}%
+\contentsline {subsection}{Learning Activities}{82}{section*.190}%
+\contentsline {subsubsection}{Read, View and Reflect}{82}{section*.191}%
+\contentsline {subsubsection}{Key Terms Quiz (ungraded)}{82}{section*.192}%
+\contentsline {subsubsection}{Case Study}{83}{section*.193}%
+\contentsline {section}{Assessment}{83}{section*.194}%
+\contentsline {subsubsection}{Assignment: Reflective Journal (5\%)}{83}{section*.195}%
+\contentsline {subsubsection}{Discussion Responses}{83}{section*.196}%
+\contentsline {section}{Checking your Learning}{84}{section*.197}%
+\contentsline {chapter}{\numberline {9}The Ethics of Torture and Terrorism}{85}{chapter.9}%
+\contentsline {section}{Overview}{85}{section*.198}%
+\contentsline {subsection}{Topics}{87}{section*.199}%
+\contentsline {subsection}{Learning Outcomes}{87}{section*.200}%
+\contentsline {subsection}{Activity Checklist}{87}{section*.201}%
+\contentsline {subsubsection}{Read, View and Reflect}{87}{section*.202}%
+\contentsline {subsubsection}{Current Event Search}{87}{section*.203}%
+\contentsline {subsubsection}{Key Terms Quiz}{88}{section*.204}%
+\contentsline {subsubsection}{\textbf {Assignment}}{88}{section*.205}%
+\contentsline {subsection}{Resources}{88}{section*.206}%
+\contentsline {section}{Is Torture Ever Justified?}{88}{section*.207}%
+\contentsline {subsection}{Learning Activities}{89}{section*.208}%
+\contentsline {subsubsection}{Read, View and Reflect}{89}{section*.209}%
+\contentsline {section}{A Rationale for Terrorism: A Response}{89}{section*.210}%
+\contentsline {subsection}{Learning Activities}{90}{section*.211}%
+\contentsline {subsubsection}{Read, View and Reflect}{90}{section*.212}%
+\contentsline {subsubsection}{Current Events}{90}{section*.213}%
+\contentsline {subsubsection}{Key Terms Quiz (ungraded)}{90}{section*.214}%
+\contentsline {section}{Assessment}{90}{section*.215}%
+\contentsline {subsubsection}{Assignment: Reflective Journal (ungraded practice)}{90}{section*.216}%
+\contentsline {subsubsection}{Discussion Responses}{91}{section*.217}%
+\contentsline {subsection}{Assignment: Ethics Video (15\%)}{91}{section*.218}%
+\contentsline {section}{Checking your Learning}{91}{section*.219}%
+\contentsline {chapter}{\numberline {10}World Hunger and Foreign Aid}{93}{chapter.10}%
+\contentsline {section}{Overview}{93}{section*.220}%
+\contentsline {subsection}{Topics}{94}{section*.221}%
+\contentsline {subsection}{Learning Outcomes}{94}{section*.222}%
+\contentsline {subsection}{Activity Checklist}{95}{section*.223}%
+\contentsline {subsubsection}{Read, View and Reflect}{95}{section*.224}%
+\contentsline {subsubsection}{Webquest for help}{95}{section*.225}%
+\contentsline {subsubsection}{Drowning Case Study}{95}{section*.226}%
+\contentsline {subsubsection}{Key Terms Quiz}{95}{section*.227}%
+\contentsline {subsubsection}{\textbf {Assignment}}{95}{section*.228}%
+\contentsline {subsection}{Resources}{95}{section*.229}%
+\contentsline {section}{A Proposed Basis for Moral Obligation}{96}{section*.230}%
+\contentsline {subsection}{Learning Activities}{97}{section*.231}%
+\contentsline {subsection}{Read, View and Reflect}{97}{section*.232}%
+\contentsline {section}{Does our aid help or hurt?}{97}{section*.233}%
+\contentsline {subsection}{Learning Activities}{97}{section*.234}%
+\contentsline {subsubsection}{Read, View and Reflect}{97}{section*.235}%
+\contentsline {subsubsection}{Webquest for Help!}{98}{section*.236}%
+\contentsline {section}{How to think about moral obligation to those in need}{98}{section*.237}%
+\contentsline {subsection}{Learning Activities}{99}{section*.238}%
+\contentsline {subsubsection}{Read, View and Reflect}{99}{section*.239}%
+\contentsline {subsubsection}{Case Study}{99}{section*.240}%
+\contentsline {subsubsection}{Key Terms Quiz (ungraded)}{99}{section*.241}%
+\contentsline {section}{Assessment}{99}{section*.242}%
+\contentsline {subsection}{Assignment}{99}{section*.243}%
+\contentsline {subsubsection}{Ethics Committee Response (ungraded practice)}{99}{section*.244}%
+\contentsline {subsubsection}{Partner Project Presentation (40\%)}{100}{section*.245}%
+\contentsline {subsubsection}{Ethics Committee Self-Reflection (Ungraded)}{100}{section*.246}%
+\contentsline {section}{Checking your Learning}{101}{section*.247}%
+\contentsline {chapter}{References}{103}{chapter*.248}%
