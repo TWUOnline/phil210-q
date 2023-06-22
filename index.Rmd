@@ -1,10 +1,10 @@
 ---
-title: "[Course Name & #]"
-author: "Name"
+title: "Philosophy 210: Contemporary Ethical Issues"
+author: "Paul Wilson Chamberlain, Ph.D."
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-url: https://ma-lead.github.io/ldrs664
+url: https://twu-fhss.github.io/phil210/
 biblio-style: apalike
 ---
 
@@ -12,13 +12,14 @@ biblio-style: apalike
 
 # Welcome {-}
 
-*Insert the course description here.*
+This is the course book for *Philosophy 210: Contemporary Ethical Issues*. This book is divided into 10 units of study to help you engage with administrative concepts. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
 
-```{block2, type='feedback'}
-**Tips for Instructors:**
-Consider this description as a hook to get students interested in your course. Describe the big ideas of your course, summarize what students will learn, explain why it matters.
-***Note that if there are any changes to a course description, these need to be approved by Senate.***
-```
+On the next page you will find a summary of the course syllabus, as well as how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
+
+I hope you enjoy the course.
+
+## Course Notes{-}
+
 
 ### How To Navigate This Book {-}
 
@@ -33,7 +34,7 @@ knitr::include_graphics("assets/course-intro/left_arrow.png")
 knitr::include_graphics("assets/course-intro/right_arrow.png")
 ```
 
-You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at elearning@twu.ca
+You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at elearning@twu.ca.
 
 ### Course Units{-}
 
@@ -44,7 +45,7 @@ This course is organized into 10 units. Each unit of the course will provide you
 - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.  
 - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.  
 
-```{block2, type='caution'}
+```{block, type='caution'}
 Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
 ```
 
@@ -52,22 +53,22 @@ Note that assessments, including assignments and discussion posts will be submit
 
 Below is some key information on features you will see throughout the course. 
 
-```{block2, type='reflect'}
+```{block, type='reflect'}
 ***Learning Activity***  
 This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
 ```
 
-```{block2, type='assessment'}
+```{block, type='assessment'}
 ***Assessment***  
 This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
 ```
 
-```{block2, type='progress'}
+```{block, type='progress'}
 ***Checking Your Learning***  
 This box is for checking your understanding, to make sure you are ready for what follows.
 ```
 
-```{block2, type='feedback'}
+```{block, type='caution'}
 ***Note***  
-This box signifies Tips for Instructors.  Please delete these before you share this course book with your students!
+This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
 ```
