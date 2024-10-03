@@ -1,0 +1,292 @@
+# The Nature of Moral Inquiry
+
+::: {#fig-U1xbabyx2709666x1920}
+
+![](assets/u1/U1_baby-2709666_1920.jpg){fig-alt="Picture of a child infront of a laptop" .lightbox fig-align="left"}
+
+Picture of a child infront of a laptop
+
+:::
+
+*Photo Credit: [Pixabay](https://pixabay.com/en/baby-learn-laptop-question-2709666/){target="_blank"}*
+
+::: {.video-container}
+
+<iframe width="560" height="315" src="https://web.microsoftstream.com/embed/video/ebe7fb5f-e48e-4080-9a07-f4bfd8c3d0be?autoplay=false&amp;showinfo=false" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+:::
+
+## Overview {.unnumbered}
+
+Welcome to Unit 1 of *Ethical Issues*, Philosophy 210. When was the last time you had a free and open discussion with a group of friends about the issues of abortion, world hunger, animal rights, sexual morality, capital punishment, war and peace, or proper treatment of the environment? We often tend to avoid topics like these to keep the peace in polite company.
+
+You may have noticed that people often get very passionate, even angry, over moral issues like the ones mentioned above, and this can lead to highly emotional discussions which often shed more heat than light on the issues.
+
+The word, “ethics,” comes from a Greek word *ethos* which meant custom or habit. Ethics is a branch of philosophy which is concerned with questions of right and wrong, good and evil. As such it addresses a number of sensitive moral issues, the kind some of us may try to avoid in day-to-day conversation.
+
+Are there ways we can think through and engage such issues in a cool and enlightening manner? Are there steps or procedures that can guide us to thoughtful conclusions? Here is where the discipline of ethics can come in. As a discipline, ethics is devoted to identifying hard moral questions on which people disagree and then applying relevant moral principles to these questions in the search for correct moral action. As such, it can provide a better way of thinking through these issues and for this reason, ethics is a highly practical and useful discipline.
+
+In some cases, people who heatedly disagree about a moral question may find that they actually agree on the guiding moral principles but just differ on how these principles are to be applied. In other words, the parts they agree on are larger than those on which they disagree. That can allow for a cooler and more productive discussion of sensitive moral questions and can even point the way for them to come to a solution.
+
+In this unit we will turn our attention to a number of foundational concepts involved in moral reasoning. Our goal will be to develop a moral outlook, to learn to think ethically about the moral questions we face in life.
+
+One of the first things to remember is that ethics is different from most other disciplines in a highly significant way. While most other areas of study such as science, history, and mathematics are descriptive, ethics is prescriptive. Ethical judgments actually prescribe certain behaviours. They tell us we ought to do certain things, or refrain from them. In fact, words like right, wrong, should, ought, and even deserve, are key indicators in any sentence that we may be making ethical judgments about something.
+
+If your friend described the medical service she just received as slow or unhelpful, she would have made a purely descriptive statement. If, however, she followed it up by saying the government ought to be providing faster and more effective health care, she would have made a moral judgment. She would have prescribed one type of behaviour and said the government ought to have acted that way. In other words, she has now moved into the moral realm; she is involved in moral discourse.
+
+In this unit we will explore further how to carry out moral discourse well and will examine the interesting question of why, around the world, people do not always appear to have the same moral outlook.
+
+### Topics {.unnumbered}
+
+This unit is divided into 3 topics:
+
+1. Developing a Moral Outlook
+2. Moral Reasoning
+3. Cultural Relativism
+
+### Learning Outcomes {.unnumbered}
+
+When you have completed this unit, you should be able to:
+
+- Define key terms, such as meta-ethics, normative ethics, applied ethics, and moral intuition.
+- Describe what it means to think ethically about key moral dilemmas we face in the 21st century.
+- Explain some unique features of moral discourse.
+- Discuss how cultural relativism differs from moral objectivism.
+- Take a position on the issue of cultural relativism, however tentatively, and articulate both the strongest arguments for and some key objections to it.
+
+### Learning Activities {.unnumbered}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+**Introductions** : Introduce yourself to your peers.
+
+**Read, View, Reflect** :
+
+Read pages 1-7 of the *An Introduction to Moral Philosophy* by Jonathan Wolff. Watch the videos related to the topic.
+
+Read the rest of Chapter 1 (pages 7-17) of your textbook, *An Introduction to Moral Philosophy*. Watch the videos related to the topic.
+
+Read chapter 2 of your *Introduction* textbook. Watch the videos related to the topic.
+
+**Thought Experiment** :
+
+Read and analyze the thought experiment on page 14 of the Wolff text.
+
+**Key Terms Quiz** :
+
+Take the ungraded quiz to review important concepts.
+
+::: {.note icon="true"}
+
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+#### Assignment {.unnumbered}
+
+Ethics Committee Response (15%)
+
+### Resources {.unnumbered}
+
+Here are the resources you will need to complete this unit.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018.
+- Other online resources will be provided in the unit.
+
+### Activity : Introductions
+
+::: {.learning-activity}
+
+Before you delve into the course material, take some time to introduce yourself to your peers, your facilitator, and your instructor. Share a bit about yourself, such as where you live, what you are studying, the kind of things that interest you, and perhaps some questions you have about this course. Feel free to share a picture of something that means something to you (e.g. pet, family, favourite book, etc.). Note that in this course, you will write reflective journals and participate in other group assignments. This is a good opportunity to get to know each other and build your community of learners.
+
+Go to the Course Cafe section and click on Student Introductions. Add your introduction to the forum.
+
+:::
+
+## Developing a Moral Outlook
+
+Moral ideas and teachings are not really new to any of us, whether we have ever taken a course in ethics or not. We have all been taught from our earliest days to obey our parents, respect our elders, be kind to children, and a host of other moral instructions. In other words, ethics have been part of our lives from the beginning.
+
+The process of developing a moral outlook begins by considering whether moral questions matter and, if they do, how we can develop attitudes that are sensitive to them. Does it matter whether I live one way or another, whether I help people or hurt them, lie to my neighbours or tell them the truth, respect other people’s property or take it at will so long as I can get away with it?
+
+When someone tells you that stealing your colleague’s wallet was wrong and you reply by asking, “Why should I care about that?” you have commented on the necessity, or lack thereof, of a moral outlook.
+
+One key area of study involved in developing a moral outlook is **meta-ethics,** which involves foundational questions of the nature of morality, how we know moral rules, etc. Another is **normative ethics** which is the study of what we are morally obligated to do. A third is **applied ethics** which moves one into the analysis of specific moral questions. In this topic, it will be important to understand the differences between these terms.
+
+### Activity : Read, View and Reflect
+
+::: {.learning-activity}
+
+In the first activity, you are asked to read pages 1-7 of your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course. Next, watch the following videos to learn more about the key terms from this section.
+
+[Watch: *How to Argue - Philosophical Reasoning: Crash Course Philosophy*](https://youtu.be/NKEhdsnKKHs?si=FpTocIZ6EP70HDQb){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/NKEhdsnKKHs >}}
+
+[Watch: *Metaethics: Crash Course Philosophy*](https://youtu.be/FOoffXFpAlU){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/FOoffXFpAlU >}}
+
+:::
+
+::: {.note icon="true"}
+
+*Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments.*
+
+:::
+
+## Moral Reasoning
+
+What is moral reasoning or moral discourse? We are involved in moral reasoning when we engage in a thinking process about what we ought to do in specific situations. This will mean following a thoughtful procedure for sorting through moral questions with the goal of discovering correct moral action. But how does one do this?
+
+One suggested method is the following:
+
+**Step one**: Identify the precise foundational moral question needing to be resolved. For example, in the debate over the moral permissibility of abortion on demand, the foundational moral question concerns the nature and moral status of the unborn human being. Does it have the same status or value as a 3-year old child or that of a growth which needs to be removed? If this question were resolved and agreed upon by most people, there would be little left to argue about on this question. Admittedly, this is a difficult question but that is often the case in ethics. It’s why we call them moral dilemmas. The point of identifying the key foundational question/s for each issue is that, then, at least we are thinking about the right questions and not wasting our time on others.
+
+**Step two**: State the main answers to this question. This will involve accurately stating the main competing views on this moral question, both the ones we agree with and the ones we do not.
+
+**Step three**: Discover the best arguments or reasons given for each of these answers. The goal is to understand the supporting rationale for each of these positions as well as the people who believe them.
+
+**Step four**: Evaluate and assess these arguments with the goal of drawing a conclusion of your own concerning which answer is the best one. Normally the way to do step four well is to have done step three carefully. Reading the arguments for one view provides the most helpful material needed to evaluate both it and the opposing views.
+
+In the end, you will find that proper moral reasoning involves applying general moral principles such as the principles of love, justice, human dignity, honesty, etc., to specific moral questions in order to see what these principles tell us about the correct course of action.
+
+Of course, moral reasoning needs to be done with great care. In the text reading for this topic, we will learn a few principles for careful reasoning. One important concept in the reading is **logical validity** which occurs when the conclusion of an argument follows logically from the premises. This means that if the premises are true, the conclusion must also be true. If an argument, moral or otherwise, is invalid (i.e., if the conclusion does not follow from the premises), it proves nothing and should be set aside.
+
+Some other terms are **argument by analogy**, **argument to the best explanation, moral intuitions, universalization** and the **fact/value distinction.** Our text will explain them and we will have an opportunity to think through their importance for careful reasoning with our class colleagues.
+
+
+
+### Activity: Read, View and Reflect {.unnumbered}
+
+::: {.learning-activity}
+
+Read the rest of Chapter 1 (pages 7-17) of your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. Take notes on key terms and concepts.
+
+Next, watch the following videos to get a better understanding of key terms for this topic.
+
+[Watch: *Moral Reasoning | Ethics Defined*](https://youtu.be/h_sufC5nY18?si=ZFSXH3cTgfTqw4z-){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/h_sufC5nY18 >}}
+
+[Watch: *How to Argue - Philosophical Reasoning: Crash Course Philosophy*](https://youtu.be/NKEhdsnKKHs?si=KMAYK3-vWMb1Moi1){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/NKEhdsnKKHs >}}
+
+#### Thought Experiment {.unnumbered}
+
+Read the thought experiment posed by philosopher, Philippa Foot, on page 14 of the Wolff text, *Introduction to Moral Philosophy*. Consider how you might answer the question posed by this thought experiment and why you would answer this way. What ethical issues arise?
+
+::: {.note icon="true"}
+
+*Note that this is an ungraded activity, but you are encouraged to write your answers in your notes. You may be asked to review this case or similar cases in your class discussion groups. This practice of analyzing a case, contemplating various perspectives, and presenting an argument will help you in your assessments for this course.*
+
+:::
+
+## Cultural Relativism
+
+This topic will introduce us to one of the most perplexing questions about morality: are moral values consistent for all people regardless of when or where they happen to live? If so why do moral values seem to vary, sometimes considerably, in different times and cultures?
+
+**Cultural Relativism** is more than the recognition that moral views and practices differ from place to place and time to time. It is the view that what is morally right and wrong should be understood only within a specific cultural or social setting. Furthermore, what is morally right in one culture may be wrong in another. In other words it is a view about the very nature of morality.
+
+In chapter 2 of the Wolff *Introduction* text, we will come across a number of different kinds of relativism and will have the opportunity to learn some arguments often made in favour of cultural relativism along with a number of serious problems with it.
+
+### Activity: Read, View and Reflect
+
+::: {.learning-activity}
+
+Read chapter 2 of your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. Take notes on key terms and concepts. Next, choose from the following videos to get a better understanding of key terms for this topic.
+
+[Watch: *All is Not Relative | Concepts Unwrapped*](https://youtu.be/Z11v2nWsgGA?si=Vj4f6dszPut7uH7H){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/Z11v2nWsgGA >}}
+
+[Watch: *R&E Ethics: Absolutism vs Relativism*](https://youtu.be/DxhsYTlBNG8?si=ZodS1SPlrNZ0UAdr){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/DxhsYTlBNG8 >}}
+
+[Watch: *Ayn Rand - Her Philosophy in Two Minutes*](https://youtu.be/asery3UeBj4?si=SaC1OGVX0i1cwk5v){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/asery3UeBj4 >}}
+
+:::
+
+#### Key Terms Quiz (ungraded) {.unnumbered}
+
+In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
+
+Click on the activity link below to practice defining terms used in this unit.
+
+:::
+
+## Assessment {.unnumbered}
+
+::: {.note}
+
+Please note that not all work is graded. Assignments in grey boxes are ungraded and are meant to help you process the content further and practice your ethical reasoning skills.
+
+Graded assignments are in green boxes. You will need to complete the work and submit it to the dropbox found in the assessment tab by the end of the week. More details and the rubric can also be found in the Assessment tab.
+
+:::
+
+### Assignment: Reflective Journal (ungraded practice) {.unnumbered}
+
+Throughout this course, you will be invited to write about what you are learning in a Reflective Journal. You should consider your journal as a place for you to try out new ideas, to test your assumptions, and possibly share what you are learning with your community. For more on Reflective Journaling, see the following [resource](assets/unit_1/Reflective_Journaling.pdf){target="_blank"}.
+
+After completing this unit, including the learning activities, you are asked to write a 400-500 word journal entry responding to the following questions:
+
+- Take one or two of the thought experiments presented in Unit 1 and explain briefly the difficulty of the dilemmas.
+- How would moral reasoning help us?
+- What are two ways principles of moral reasoning could provide direction in resolving the dilemmas in the thought experiences?
+- In your response, work with key terms and concepts from your readings. Show how a cultural relativist would approach this issue differently from a moral objectivist.
+
+#### Assignment: Ethics Committee Response (20%) {.unnumbered}
+
+After completing this unit, including the learning activities, you are asked to analyze the following case. You will work with a group of your peers, assuming the role of an Ethics Committee. This committee will meet throughout this course to discuss issues and create a summary report. Two reports are ungraded practice, and three reports are graded for a total of 45% of your course grade.
+
+For this first Ethics Committee meeting, you will discuss the following case:
+
+A local manufacturing plant in your community has been accused by a citizens group of dumping waste into a nearby river. When confronted with this issue, the manufacturing company president responded by saying, “We’re not dumping that much in and we’re not hurting anyone.” Others in the community disagree and believe this practice by the manufacturing plant is harming the environment.
+
+In topic 2 of this unit, four steps are set out for working through moral situations like this one. For this Ethics committee report, first figure out what questions you would need to ask the company and what information you would need. Then follow just the first two of the four steps.
+
+  - **Step 1:** identify the precise moral question needing to be resolved, and
+  - **Step 2:** state a few possible answers to this question.
+
+Finally, tell which of the answers in step 2 your committee is recommending and why.
+
+As you meet with your Ethics Committee this week, discuss the case above and take notes as a group. In your response, work with key terms and concepts from your readings. (eg. *If I was a ….I would say...about this case.*)
+
+Submit your report on Moodle by the end of the week.
+
+#### Instructions for Assignment Submission {.unnumbered}
+
+Assignments should be submitted on Moodle by the end of the week.
+
+ Go to the Assessments tab and select **Unit 1 Ethics Committee Response** to submit your assignment.
+
+#### Grading Rubric {.unnumbered}
+
+Your group assignment will be marked according to the following criteria:
+
+| **Criteria** | **Excellent** | **Average** | **Needs improvement** |
+----|--|
+| **Identification of issues and implications** (20 points max) | Excellent explanation of issues and implications. (20 points) | Average explanation of issues and implications. (9 to 19 points) | Inadequate explanation of issues and implications. (0 to 8 points) |
+| **Appropriate justification of approach and expected outcome** (30 points max) | Choice of appropriate justification of approach and expected outcome. (25 to 30 points) | Some inconsistencies or not all parts of the required answer. (16 to 24 points) | Major issues with the reasoning or explanation of outcome, or no reason given. (0 to 15 points) |
+| **Reasonable explanation of opinion and perspectives** (20 points max) | Well-written evaluation of opinions. (17 to 20 points) | Limited explanation of own opinion on current issues in managing change. 10 to 16 points | Minimal or non-existent explanation of own opinion on current issues in managing change. (0 to 9 points) |
+| **Sufficient length** (10 points max) | Report of more than 500 words. (10 points) | Report is less than 500 words. (6 to 9 points) | Minimal report. (0 to 5 points) |
+| **Layout and writing** (20 points max) | Accurate grammar and spelling, structured layout. (17 to 20 points) | Some grammar and/or writing issues. (9 to 16 points) | Major writing or spelling issues; layout not appropriate. (0 to 8 points) |
+| | | | TOTAL |
+
+## Checking Your Learning {.unnumbered}
+
+::: {.check}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Define key terms, such as meta-ethics, normative ethics, applied ethics, and moral intuition.
+- Describe what it means to think ethically about key moral dilemmas we face in the 21st century.
+- Explain some unique features of moral discourse.
+- Discuss how cultural relativism differs from moral objectivism.
+- Take a position on the issue of cultural relativism, however tentatively, and articulate both the strongest arguments for and some key objections to it.
+
+:::

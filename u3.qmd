@@ -1,0 +1,196 @@
+# Why Be Moral?
+
+::: {#fig-U3x458pxxSanziox01xPlatoxAristotle}
+
+![](assets/u3/U3_458px-Sanzio_01_Plato_Aristotle.jpg){fig-alt="painting of Plato and Aristotle" .lightbox fig-align="left"}
+
+Graphic art of Plato and Aristotle
+
+:::
+
+*Photo Credit: [Wikipedia](https://en.wikipedia.org/wiki/Aristotle#/media/File:Sanzio_01_Plato_Aristotle.jpg){target="_blank"}*
+
+## Overview {.unnumbered}
+
+Welcome to Unit 3!
+
+Suppose you learn that a colleague at work is overcharging for certain items and pocketing the difference? You, being an honest and loyal employee, immediately take him aside and urge him to stop, reminding him that his actions are not only harmful to the company and against policy, but they are simply immoral. To your surprise, your colleague retorts, “What I’m doing is harmless. The company is big enough that no one will even notice. I agree it’s immoral but why should I care about being moral?” How would you respond to this pointed question?
+
+Have you ever wondered why you or anyone else should care about what is morally good or bad? Is it because you might get caught if you acted immorally, or because others would think less of you? What if you knew you would never get caught? Suppose no one, including God, would ever know if you acted unethically in a certain situation and, thus, no one would ever think less of you or treat you differently. Would you still choose the ethically good action? If so, why?
+
+When we think about ethics, we are usually thinking of how to figure out ethical behaviour. But a deeper question, one that lies behind that question, is why anyone should be moral in the first place.
+
+It is a question we cannot avoid forever because without an answer to it, the entire ethical enterprise is left hanging in the balance. Why put all this effort into trying to figure out what good ethical conduct is if there is no reason to pursue it in the first place? We must come up with some answer but how?
+
+Furthermore, any discussion of the basis of our obligations toward other people immediately presents us with some deeper questions concerning our humanness. These include the following:
+
+- What does it mean to be human?
+- More importantly, what does it mean to be a person?
+- Are all humans persons by virtue of their humanness?
+- Alternatively, do persons have certain characteristics such as self-awareness, the ability to reason, or to carry out self-motivated activity, which certain humans have but others do not at certain stages of development?
+- If so, at what point do we become persons with all the rights of personhood? Is it at the point of conception, at birth, or at some point either between these two, or even after the point of birth?
+
+The way we answer these questions will affect our views on such key ethical issues as **abortion, infanticide, euthanasia, physician-assisted suicide, contraception, in vitro fertilization**, etc. For example, if humans are persons with all the moral rights thereof from conception on, then abortion at any stage of development will be as immoral as ending the life of a three year old child. On the other hand, if humans do not have the rights of personhood until the point of birth, or until some other definite point of development, then abortion, even infanticide, may be morally permissible until they reach that point. Similar reasoning could be applied to the other issues mentioned here.
+
+Rather than focus on these individual issues, in this unit we’ll try to get behind them and explore the basis of our moral obligation. One thing to remember is that when it comes to answering the question, ‘Why be moral?’ one answer we cannot give is, “because it’s the right thing to do,” since, when we ask, why be moral, we are asking precisely why we should care about doing the right thing. How, then, can we answer it?
+
+This question has been the subject of intense debate for thousands of years. In this unit, we’ll take a short journey down a fascinating trail of case studies, secondary questions, new terms, and different answers to the main question which have been tried out. We’ll come across terms like **Social Contract morality, psychological egoism** and **ethical egoism**. It is important to understand the meanings of these terms and the different perspectives they bring to our question, "Why be moral?" We’ll even see if evolutionary biology can help us answer this foundational question about morality. Get ready to read about **the selfish gene** and **kin altruism**.
+
+Last, we’ll be introduced to the famous story of the Ring of Gyges, told by the ancient Greek philosopher, Plato. It’s one of the most intriguing stories of all time relating to the question, why be moral, and it focuses our thoughts on this question. We’ll take some time on it in the learning activities for this unit. Once you’ve read it, it will set the stage for the different answers we’ll see to the question.
+
+Let’s plunge in. Why be moral?
+
+### Topics {.unnumbered}
+
+This unit is divided into 2 topics:
+
+1. Egoism & Self-interest Morality
+2. Social Contract Morality
+
+### Learning Outcomes {.unnumbered}
+
+When you have completed this unit, you should be able to:
+
+- Explain key ethical concepts such as ethical egoism, psychological egoism, self-interest morality, and kin altruism.
+- Discuss knowledgeably Plato’s famous story of the Ring of Gyges.
+- Discuss whether people would do what is right, even if no one would find out.
+
+### Activity Checklist {.unnumbered}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+**Read, View and Reflect**
+
+Read Chapter 6 on Egoism of your *Introduction* textbook, Wolff, Jonathan. *An Introduction to Moral Philosophy*. Watch the video related to the topic.
+
+**Wallet Case Study**
+
+Read and analyze the case study presented.
+
+**Read, View and Reflect**
+
+Read Chapter 7: The Social Contract, in your *Introduction* textbook*.* Watch the videos related to the topic.
+
+**Key Terms Quiz**
+
+Take the ungraded quiz to review important concepts.
+
+**Ethics Committee Response (ungraded)**
+
+Meet with your Ethics Committee to discuss the case presented.
+
+::: {.note icon="true"}
+
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+#### Assignment {.unnumbered}
+
+Partner Project Presentation (30%): This assignment will be presented during weeks 5-10. You must choose a partner and topic this week (see Units 5-10 topics).
+
+:::
+
+### Resources {.unnumbered}
+
+Here are the resources you will need to complete this unit.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018.
+- Other online resources will be provided in the unit.
+
+## Egoism
+
+The first topic related to the question, why be moral, comes under the heading of Egoism. There are two kinds of egoism which we will examine, **psychological egoism** and **ethical egoism,** and the discussion of these concepts may surprise you. The theories developed around them are similar in certain respects yet give significantly different answers to the question, why be moral.
+
+**Psychological egoism**, as its name suggests, is a psychological theory about human behaviour and claims that we, humans, cannot help but pursue that which is in our own best interest. It’s not difficult to see what this means for our question, why be moral. If this theory is correct, it would make it virtually impossible for anyone to act morally *unless she believed it was in her own best interest to do so*. It will be important to reflect on this theory in the reading to see if it merits our acceptance.
+
+**Ethical egoism**, as its name indicates, is an ethical theory which teaches that we have a right, and possibly even a duty, to pursue our own self-interests. Following our self-interests is the morally right thing to do.
+
+Our text book identifies two distinct forms of ethical egoism. According to one form, acting in our own self-interest is the best way of advancing the good of others around us because it is in our self-interest to do good for others. A society works better when we all look out for the good of others; thus it is in our best interest to act this way and promote this kind of society.
+
+A different form of ethical egoism, however, holds that it is morally right to act in our own best interests, *regardless of the consequences of others*. The best known proponent of this kind of pure ethical egoism is the Russian-American philosopher and novelist, Ayn Rand, who referred to the “duty of selfishness.” We will read briefly about her views in the text reading for this topic.
+
+As we read the chapter on egoism in the Wolff text, think carefully about the implications this theory, if true, would have for our question, why be moral.
+
+### Activity: Read, View and Reflect
+
+::: {.learning-activity}
+
+In the first activity, you are asked to read chapters 6 on Egoism of your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course. Watch the following video that illustrates various types of egoism:
+
+[Watch: *What is Egoism? (Philosophical Positions)*](https://youtu.be/jpHggd-3_rM?si=coNbaMWAV27_1HKi){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/jpHggd-3_rM >}}
+
+## Wallet Case Study
+
+**Introduction**
+
+Read the following case study and answer the questions in your learning journal. You are out for a walk in the park when you suddenly spot a wallet lying in the grass. Someone has lost it. Upon opening it, you find the I.D. of the owner and contact information; it is someone of whom you have never heard. You also find a substantial amount of cash. You have a number of options: leave the wallet alone and continue walking, mail it back to the owner with all its contents inside, or pocket the cash and either mail the wallet back or leave it on the grass. If you take the cash, no one will ever know. You think back to your ethics course and realize there are a number of perspectives on your situation. For this case study, how would a psychological egoist, an ethical egoist, and an advocate of self-interest morality answer the following question: should you pocket the cash? Explain why they would each answer as they do.
+
+### Social Contract Morality {.unnumbered}
+
+The second topic related to our question, why be moral, could hardly be more different from the first. It comes under the heading, Social Contract Morality, and suggests that moral rules in any society are the result of a social contract, usually implicit, made between all members of the society. We realize, say advocates of this theory, that it is in everyone’s interests to develop ethical rules which are to the benefit of all people, and teach them throughout society. No society could function if everyone did as they wished. Might would make right, thugs would rule, and life for those who survived would be filled with fear and exhaustion.
+
+We’ve seen the difference between the social contract theory and the previous egoistic ones but can you also see a fundamental similarity between them? This theory also teaches that the reason we should be moral is that it is in our best interest to do so. As you read the section in the course text on The Social Contract, reflect further on this similarity and also on whether it provides an adequate basis for us to be moral. What problems or questions does it raise?
+
+### Activity: Read, View and Reflect
+
+::: {.learning-activity}
+
+In this activity, you are asked to read chapter 7, The Social Contract in your textbook, *An Introduction to Moral Philosophy,* by Jonathan Wolff. Take notes on key terms and concepts. Next, watch the following video to get a better understanding of social contract morality.
+
+[Watch: *Contractarianism: Crash Course Philosophy*](https://youtu.be/2Co6pNvd9mc?si=-uQqPa7n4Drx2H3z){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/7VwpSMgJYqA >}}
+
+:::
+
+**Key Terms Quiz (ungraded)**
+
+In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course. Match the following terms to their correct definition.
+
+<!-- ### Assessment {.unnumbered}
+
+#### Assignment: Ethics Committee Response (20%) {.unnumbered}
+
+After completing this unit, including the learning activities, you are asked to analyze Plato’s story of the Ring of Gyges from various perspectives. You will work again with your Ethics Committee group to discuss the case and then post a summary report online.
+
+For this Ethics Committee meeting, analyze Plato’s story of the Ring of Gyges (from the text reading, p. 88) and state how his key question, “What would you do?” might be answered by an ethical egoist, a psychological egoist, an advocate of self-interest morality, and a kin altruist. Then explain why you think each would answer as they do. (e.g. *If I was a ….I would say... Here is why.)*
+
+As you meet with your Ethics Committee this week, discuss the story and take notes. In your response, work with key terms and concepts from your readings. (eg. *If I was a ….I would say...about this case.*)
+
+Refer to the **grading criteria** in the Assessments section of this course. Submit your report on Moodle by the end of the week.
+
+#### Assignment: Partner Project Presentation (30%) {.unnumbered}
+
+For this partner project, you will choose a specific ethical issue to address. Please note that this is an argumentative project and not simply a discussion project. Your presentation should be 12-15 minutes in length and have a visual element (e.g. PowerPoint). You will also have an additional 10 minutes at the end of your presentation to answer questions and facilitate a class discussion.
+
+Note that this assignment will be presented during weeks 5-10. You must choose a partner and topic this week (see Units 5-10 topics). Your Facilitator will hand out a sign-up sheet. Complete this before moving on to the next unit.
+
+See more assignment details, including the *grading criteria* in the Assessments section of this course.
+
+#### Sign-up for the Partner Project Presentation {.unnumbered}
+
+For this partner project, your group will choose a specific ethical issue to address. Please note that this is an argumentative project and not simply a discussion project. Your presentation should be 12-15 minutes in length and have a visual element (e.g. PowerPoint). You will also have an additional 10 minutes at the end of your presentation to answer questions and facilitate a class discussion.
+
+:::
+
+::: {.note icon="true"}
+
+**Note** that this assignment will be presented during weeks 5-10. You must choose a group and topic this week (see Units 3-10 topics). Your Facilitator will hand out a sign-up sheet. Complete this before moving on to the next unit.
+
+:::
+
+See more assignment details, including the *grading criteria* in the Assessments section of this course.
+
+## Checking Your Learning {.unnumbered}-->
+
+::: {.check}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Explain key ethical concepts such as ethical egoism, psychological egoism, self-interest morality, and kin altruism.
+- Discuss knowledgeably Plato’s famous story of the Ring of Gyges.
+- Discuss whether people would do what is right, even if no one would find out.
+
+:::

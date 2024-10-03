@@ -1,0 +1,273 @@
+# How to Determine What is Moral
+
+![](assets/unit_4/thinker-1294493_640.jpg)
+
+*Artistic sculpture. Photo Credit: [Pixabay](https://pixabay.com/en/thinker-at-a-loss-consider-play-1294493/)*
+
+## Overview {-}
+
+Have you ever had a disagreement with someone over what the correct ethical
+action or point of view is in a certain situation? Perhaps, for example, a
+person who has murdered three people and terrorized your community for the past
+four months has just been arrested and found guilty with overwhelming evidence.
+You say justice requires that this person be executed but your friend staunchly
+disagrees. She argues that killing humans is wrong in all situations because
+human life has intrinsic value and dignity regardless of what any person has
+done.
+Another example: you and a friend disagree about whether you should tell a lie to your employer in order to save a colleague’s job who has been unfairly accused of padding her expense account. It’s a complicated situation but by telling one small lie, you can lift the suspicion from your colleague. “Of course you should lie!” your friend confidently asserts. “After all, it would be a gross injustice for her to be fired for something she didn’t do, and what harm is there is telling the lie to prevent that injustice?” You, however, are not so sure that lying is really that harmless.
+Disagreements like this can arise over a host of morally perplexing dilemmas and when they do, we sometimes wonder how to resolve them.
+
+This is the question we will be addressing in this unit, i.e., **how can we decide what good ethical behaviour is when we are faced with tough ethical choices?** Is there a procedure, or set of procedures, we can follow to help provide ethical guidance for the perplexing moral questions we all face from time to time? In other words, what does morality call us to do in these tough situations and how can we determine that?
+
+There are three common theories of morality which set out answers to this question: **Justice as Fairness, Utilitarianism,** and **The Categorical Imperative**. In this unit we will read articles setting out each of these theories along with a basic rationale for each.
+
+## Topics {-}
+
+This unit is divided into 3 topics:
+
+1. Understanding the Original Position  
+2. Utilitarianism  
+3. The Categorical Imperative  
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe a number of foundational ethical ideas related to the question, “Why be moral?” such as the original position, utilitarianism, and the categorical imperative.  
+- Suggest ways in which adhering to each of these concepts would influence the decision-making process when facing moral dilemmas.  
+- Explain key objections to each of these concepts.  
+
+### Activity Checklist {-}
+
+Here is a checklist of learning activities you will benefit from in completing
+this unit. You may find it useful for planning your work.
+
+ <!-- [plugin:content-inject](_schedule) -->
+
+```{block2, type='reflect'}
+
+#### Read, View and Reflect {-}
+
+- Read pages 125-132 of your *Readings* textbook. Watch the videos related to the topic.  
+
+- Read pages 132-150 of your *Readings* textbook. Watch the videos related to the topic.  
+
+- Read pages 152-160 of your *Readings* textbook. Watch the videos related to the topic.  
+
+#### Diamond Case Study {-}
+
+Read and analyze the case study presented.  
+
+#### Ethics Simulation (Optional) {-}
+
+Explore the ethics simulation presented.
+
+#### Key Terms Quiz {-}
+
+Take the ungraded quiz to review important concepts.
+
+#### **Assignment** {-}
+
+Ethics Committee Response (15%)
+
+```
+
+### Resources {-}
+
+Here are the resources you will need to complete this unit.
+-   Wolff, Jonathan.  *Readings in Moral Philosophy*.  New York: W. W. Norton & Company, 2018.  
+-   Other online resources will be provided in the unit.  
+
+### Understanding the Original Position {-}
+
+How can we decide what good ethical behaviour is when we are faced with tough
+ethical choices? One answer, or theory of morality, called **‘Justice as
+Fairness’**, holds that the morally good, or just, course of action is the one
+which is the fairest in the situation. How, though, do we figure out what is
+fair, especially in a way that others will agree with us? How could anyone
+figure out a thing like that?
+Interestingly, John Rawls, a twentieth century American political philosopher, and an advocate of this view, has developed a well-known thought experiment to help us do precisely that. We will read about it in the article by him in our course readings for this unit. Be ready to figure out what he meant by such key terms as **the original position** and **veil of ignorance**. Without a clear grasp of these, we will not understand this thought experiment or Rawls’ method.
+We may need to read over certain parts a few times to really grasp these key concepts but, given the importance of preparing to face tough moral dilemmas, it will be worth the effort. We’ll also have opportunities to discuss them with colleagues in this class to help gain a working knowledge of them. In the end, let’s try to answer the question for ourselves: How can I determine what is moral?
+
+### Learning Activities {-}
+
+<!-- 
+[plugin:content-inject](../_4-1) -->
+
+```{block2, type='reflect'}
+
+#### Read, View and Reflect {-}
+
+In the first activity, you are asked to read pages 125-132 of your textbook, *Readings in Moral Philosophy* by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course.
+
+Next, choose from the following videos to learn more about the key terms from this section.
+
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5-JQ17X6VNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P3gWGtf_w_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pJCuDqnlZSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YLInfO_iLNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+```
+## Topic 2: Utilitarianism {-}
+
+**Introduction**
+Another answer to the question of how to determine what is moral is called **utilitarianism**. This view teaches that morally good actions are those that, on balance, bring about the greatest good or happiness in any given situation. This theory seems rather intuitive to many people and, not surprisingly, has been around for a long time. Nineteenth century British philosopher, John Stuart Mill, its best known representative, has written the article we’ll read to see how he develops it.
+As you’re reading his article, ask yourself if you can think of any problems with it. Serious objections have been raised against this view which is why many people have preferred the next answer we will consider.
+
+### Learning Activities {-}
+
+<!-- 
+[plugin:content-inject](../_4-2)  -->
+
+```{block2, type='reflect'}
+
+#### Read, View and Reflect {-}
+
+Read pages 132-150 of your textbook, *Readings in Moral Philosophy* by Jonathan
+Wolff. Take notes on key terms and concepts.
+Next, choose from the following videos to get a better understanding of
+utilitarianism.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-a739VjqdSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+
+<div class="video-container"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uvmz5E75ZIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+
+```
+
+### The Categorical Imperative {-}
+
+Our third answer to the question of how to determine what is morally good action was set out by the eighteenth-century German philosopher, Immanuel Kant. He rejected utilitarianism and took an entirely different approach. His theory is that the morality of any action does not depend on its consequences or effects because those same effects, namely happiness and pleasure, could be produced by a whole variety of actions, many of which would not be just. In other words, happiness and pleasure are unreliable guides to determining morally just actions.
+Rather, he said, the morality of an action depends upon whether it fulfills our duty to follow ethical rules. What rules? Kant said we can develop rules which are drawn from one supreme principle of morality which he called **The Categorical Imperative**. His moral system is often called duty-based, or rule-based ethics, as opposed to the consequence-based ethics of utilitarianism. As we read the article by this philosopher, let’s see what we think about this way of determining morally just action.
+
+### Learning Activities {-}
+
+<!-- 
+
+[plugin:content-inject](../_4-3) -->
+
+```{block2, type='reflect'}
+
+#### Read, View and Reflect
+
+Read pages 152-160 of your textbook, *Readings in Moral Philosophy* by Jonathan
+Wolff. Take notes on key terms and concepts.
+Next, choose from the following videos to get a better understanding of
+utilitarianism.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8bIys6JoEDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eKgIwfl4MBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mQ2fvTvtzBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!-- 
+[plugin:content-inject](../_4-4) -->
+
+#### Diamond Case Study {-}
+
+Read the following case study and consider what you would do in the situation.
+What ethical issues arise?
+You, a follower of utilitarian ethics and a poor college student, are enjoying an evening visiting with two friends.  One is a parent of seven children with limited financial means who holds to Immanuel Kant’s categorical imperative, while the other is a wealthy business owner who happens to be a follower of John Rawls’ theory of justice built around the concept of the original position.  Your topic of discussion is the relative merits of these three ethical concepts. Suddenly someone enters the room with a small box of valuable diamonds and says they have been donated to your group of three by a wealthy philanthropist who wishes to remain anonymous. The donor asked that they be divided “justly” among you but has left the definition of justice up to you.  How would each of you say they should be divided? How does each ethical concept, the categorical imperative, the original position, and utilitarianism influence each answer?
+
+```
+
+```{block2, type='caution'}
+
+*Note that this is an ungraded activity, but you are encouraged to write your answers in your notes or reflective journal. You may be asked to review this case or similar cases in your class discussion groups. This practice of analyzing a case, contemplating various perspectives, and presenting an argument will help you in your assessments for this course.*
+
+```
+
+<!-- [plugin:content-inject](../_4-5)  -->
+
+```{block2, type='reflect'}
+
+#### Ethics Simulation (Optional) {-}
+
+Now that you have learned about the main ethical theories and principles, look
+for opportunities to challenge yourself! Look up ethical case studies or
+simulations online and see if you can provide sound reasoning and link to the
+theories you have learned.
+One app in particular you may want to try is Ethical Decision Making (below). It helps you go through the options to make tough ethical decisions.
+
+//todo #2
+<a class="embedly-card" data-card-controls="0" href="https://play.google.com/store/apps/details?id=com.mcae.decision&hl=en_CA">Ethical Decision Making - Apps on Google Play</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+Feel free to share any resources you find with your classmates!
+
+<!-- 
+[plugin:content-inject](../_4-6)  -->
+
+#### Key Terms Quiz (ungraded) {-}
+
+In order to review some of the major concepts from the text, take the following
+unmarked quiz. Although you will not be evaluated on these terms, they will
+assist you in the assignments for this course.
+Match the following terms to their correct definition.
+
+```
+
+
+### Assessment {-}
+
+<!-- [plugin:content-inject](../_Assignment1) -->
+
+```{block2, type='assessment'}
+
+#### Assignment: Ethics Committee Response (20%) {-}
+
+After completing this unit, including the learning activities, you are asked to
+meet with your Ethics Committee and discuss the following:
+
+For the following ethical theories, Justice as fairness, the categorical imperative, and utilitarianism, explain the answer you think an advocate of each position would give to the following question:
+
+*Should the government provide housing and a food allowance for homeless people?*
+
+As you meet with your Ethics Committee this week, discuss the question and provide some of the key reasoning you think each perspective would use in coming to what they believe to be a just solution. In other words, the utilitarian would point out. . . and say. . ., etc.
+
+In your response, work with key terms and concepts from your readings. (eg. *If I was a ….I would say...about this case.*)
+
+Submit your report on Moodle by the end of the week.
+
+
+<!-- [plugin:content-inject](../_Assignment2) -->
+
+#### Assignment: Reflective Journal (ungraded practice) {-}
+
+For your second Reflective Journal in this course, you are invited to write about what you have learned in this unit. Remember that you should consider your journal as a place for you to try out new ideas, to test your assumptions, and to possibly share what you are learning with your community.
+After completing this unit, including the learning activities, you are asked to write a 250-400 word journal entry responding to the following question: “Why Be Moral?”
+
+#### Discussion Responses {-}
+
+After you have finished your journal assignment, you will share your responses in class with your peers. You will then be asked to add 1-2 more ideas to your journal response, highlighting what you learned from the discussion with your peers.
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+  - Describe a number of foundational ethical ideas related to the question,
+    “Why be moral?” such as the original position, utilitarianism, and the
+    categorical imperative.  
+  - Suggest ways in which adhering to each of these concepts would influence the decision-making process when facing moral dilemmas.  
+  - Explain key objections to each of these concepts.  
+
+```
